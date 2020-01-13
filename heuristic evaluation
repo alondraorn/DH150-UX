@@ -1,0 +1,33 @@
+# *Heuristic Evaluation*
+
+## *DH150 Assignment01: Heuristic Evaluation by Priyana Patel* 
+
+### The community that I feel I belong to is a community that seeks adventure, travels to new places, spends time with friends and family, and never feels settled in one place. 
+
+### The app that I chose to best represent this community is Expedia. (relate to community) 
+### Expedia is an online travel agency that can be used to book flights, hotels, car rentals, cruises, and bundle deals. 
+### pictures 
+
+## *Expedia App Heuristic Evaluation*
+
+### https://www.expedia.com/app
+
+### Overall, I feel that Expedia provides a relatively straightforward, step-by-step process to plan the user's trip. 
+### The main UX issues I found that can be improved are: too much text/overcrowding on the page, too much scrolling, and confusion with final pricing. 
+
+## *1: Visibility of system status
+### Shows each step everytime the page loads (step 1: select hotel, step 2: select outbound flight, step 3: select inbound flight)
+### Severity rating: 2 (The user is only able to see their progress when they are in-between steps and the next page is loading)
+
+## *2: Match between system and the real world
+### Good use of icons
+### Severity rating: 1 (Explain why it's good)
+
+## *3: User control and freedom 
+### Upper pulldown bar to edit search field
+### Once on the final checkout page, the user has to keep clicking the back arrow to change one leg of the flight 
+### The user is only able to book airline tickets for a maximum of 6 people
+### Severity rating: 2 
+
+## *4: Consistency and standards
+### Text or icons in blue are actionable items, red items are used when a feature is not available (non-refundable), green items 
