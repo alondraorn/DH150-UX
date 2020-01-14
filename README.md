@@ -18,7 +18,7 @@ Shows each step everytime the page loads (step 1: select hotel, step 2: select o
 Severity rating: 2 
 Why: The user is only able to see their progress when they are in-between steps and the next page is loading)
 
-[heuristic1](heuristic 1.png)
+[heuristic1](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%201.png)
 
 ## **2: Match between system and the real world**
 Good use of icons*
