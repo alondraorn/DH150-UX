@@ -20,7 +20,7 @@ https://www.southwest.com/html/air/products/mobile.html
 
 The second app I chose to reflect users of this community is the Southwest app. Southwest users can also be lone travelers, friends or families booking vacations, or business travelers. Most importantly, Southwest users are those who may be booking a last minute flights, seeking flexibility and budget prices. Southwest is a mobile platform and extension of the American airline company which allows users to book flights, check-in, change existing reservations, as well as check flight status, boarding position, and gate information. 
 
-Overall, Southwest allows the user to access pertinent, real-time information regarding their flight that they would otherwise have to ask in-person to Southwest personnel. The main UX issues that I found that can be improved are: too much text and access points, *. 
+Overall, Southwest allows the user to access pertinent, real-time information regarding their flight that they would otherwise have to ask in-person to Southwest personnel. The main UX issues that I found that can be improved are: too much text and access points,*.  
 
 picture 
 
