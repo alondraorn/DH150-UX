@@ -1,10 +1,12 @@
-# Title***
+# Community of Travelers and Aventure-Seekers
 
 ## *DH150 Assignment01: Heuristic Evaluation by Priyana Patel* 
 
 ### The community that I feel I belong to is a community that seeks adventure, travels to new places, spends time with friends and family, and never feels settled in one place. 
+### I feel a close association with this community because as an immigrant from the United Kingdom, I call multiple places home. 
+### 
 
-### The app that I chose to best represent this community is Expedia. (relate to community) 
+### The app that I chose to best represent this community is Expedia. (relate to community - travelers, families, business, people with long network ties)
 ### Expedia is an online travel agency that can be used to book flights, hotels, car rentals, cruises, and bundle deals. 
 ### pictures 
 
@@ -12,8 +14,8 @@
 
 ### https://www.expedia.com/app
 
-### Overall, I feel that Expedia provides a relatively straightforward, step-by-step process to plan the user's trip. 
-### The main UX issues I found that can be improved are: too much text/overcrowding on the page, too much scrolling, and confusion with final pricing. 
+### Overall, I feel that Expedia provides a relatively straightforward, step-by-step process to plan the user's trip however (confusion for new users).*
+### The main UX issues I found that can be improved are: too much text/overcrowding on the page, too much scrolling, and confusion with fine print details such as baggage fees, layovers, check-in age, etc. 
 
 ## *1: Visibility of system status
 ### Shows each step everytime the page loads (step 1: select hotel, step 2: select outbound flight, step 3: select inbound flight)
@@ -21,7 +23,7 @@
 ### Why: The user is only able to see their progress when they are in-between steps and the next page is loading)
 
 ## *2: Match between system and the real world
-### Good use of icons
+### Good use of icons*
 ### Severity rating: 1 
 ### Why: Expedia does a satisfactory job of using language that the user can understand and implementing icons that match the real world, such as a luggage icon.
 
@@ -34,6 +36,7 @@
 
 ## *4: Consistency and standards
 ### Text or icons in blue are actionable items, red items are used when a feature is not available (non-refundable), green items are used when a feature is available (free cancellation)
+### The flight search field is almost the exact same as the bundle search field, creating ambiguity
 ### Severity rating: 1
 ### Why: Expedia does a satsifactory job of using consistent colors for actionable items and feature availability; it is clear for the user which items on the page to click on to continue the flow.
 
@@ -52,6 +55,7 @@
 ## *7: Flexibility and efficiency of use
 ### For flight search, the user has to select their class preference, limited their ability to see options for multiple classes at the same time
 ### To book a cruise, the user is directed from the app to the desktop site 
+### The user does not have an option to save their search result for later viewing 
 ### Severity rating:
 ### Why: 
 
@@ -60,14 +64,14 @@
 ### Why: 
 
 ## *9: Help users recognize, diagnose, and recover from errors
-### plain language 
+### If a user mispells a destination, a dropdown list of destinations appear and they must click one of those to proceed 
+### Severity rating: 2
+### Why: The app does not provide details on how the user can solve or rectify their mistake; they are left to figure it out on their own
 
 ## *10: Help and documentation
 ### Not being sure which airport to pick when typing in a city for a flight
-### Information icons for flight class and baggage fees appear after a flight is selected 
+### Information icons for flight class and baggage fees appear after a flight is selected (not before the user fills out the search field)
 ### Severity rating: 2
 ### Why: While Expedia provides help in a timely manner during the selection process, there are a lot of details that are unclear when a user is first entering their search.
 
-### The user cannot save their bundle package**
-# Explaining difference between airfare classes 
-
+calendar 
