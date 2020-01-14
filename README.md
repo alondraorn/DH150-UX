@@ -23,7 +23,7 @@ Why: The user is only able to see their progress when they are in-between steps 
 
 ## **2: Match between system and the real world**
 Good use of icons, such as luggage, buildings, cruise boats, planes, etc. <br />
-Hotel search results are positioned on a map with price points, allowing the user to view accomdation's in terms of proximity to their destination. <br />
+Hotel search results are positioned on a map with price points, allowing the user to view accomodations in terms of proximity to their destination. <br />
 Severity rating: 1 <br />
 Why: Expedia does a satisfactory job of using language that the user can understand and implementing icons that match the real world. 
 
@@ -31,9 +31,9 @@ Why: Expedia does a satisfactory job of using language that the user can underst
 
 ## **3: User control and freedom**
 There is an upper pulldown bar that the user can access to edit the search field <br />
-Once on the final checkout page, the user has to keep clicking the back arrow to change one leg of the flight <br />
+Once on the final checkout page, the user has to keep clicking the back arrow if they want to change one leg of the flight <br />
 The user is only able to book airline tickets for a maximum of 6 people, limiting how many people they can book for their travel needs (not ideal for large groups) <br />
-Reviews cannot be filtered out by helpful, critical as on the desktop site
+Hotel reviews cannot be filtered out by "helpful", "critical" as on the desktop site
 Severity rating: 2 <br />
 Why: There are a few restrictions on user freedom that limit how much information is visible to the user, however, they do not severely prevent the user as they go through each step to the final checkout page. 
 
@@ -65,19 +65,19 @@ Why: While previous locations and dates from the search field are saved, the use
 [heuristic-6](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
 ## **7: Flexibility and efficiency of use**
-For flight search, the user has to select their class preference, limiting their ability to see options for multiple classes at the same time <br />
+For flight searches, the user has to select their class preference, limiting their ability to see options for multiple classes at the same time <br />
 To book a cruise, the user is directed from the app to the desktop site <br />
 The user does not have an option to save their search result for later viewing <br />
-Severity rating: 1
+Severity rating: 2
 Why: There are minor issues that disrupt the user flow, however, information such as class preference are explained in more detail at the checkout page (harder to overcome for inexperienced users)
 
 [heuristic 7](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%207.png)
 
 ## **8: Aesthetic and minimalistic design**
-There are a lot of rated features and disclaimer information on the guest reviews section for hotels, making it hard for the user to sort through meaningful ratings of a particular hotel <br />
+There are a lot of rated features and disclaimer information on the guest reviews section for hotels, making it difficult for the user to sort through meaningful ratings of a particular hotel <br />
 There is an overload of information under each hotel (location, room option, features/amenities, fees, policies, and taxes); it is hard for users to discern the main things to know such as tourist taxes, minimum check-in age, etc. <br />
 Severity rating: 2
-Why: While there is minimal and sufficient information in the first pages of the search results, the abundance of information on the following pages causes users to miss crucial information and limits task efficiency 
+Why: While there is minimal and sufficient information in the first few pages of the search results, the abundance of information on the following pages causes users to miss crucial information and limits task efficiency 
 
 [heuristic-8](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%208.png)
 
