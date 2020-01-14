@@ -45,8 +45,8 @@ In the search field, there is no message for the user if they forget to fill out
 Severity rating: 2
 Why: Expedia does a satsifactory job of prevention errors in the user flow, however, it is easy for the user to be unaware of what they are doing wrong if they fill out the search field incorrectly. 
 
-[heuristic 5(1)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205.png)
-[heuristic 5(2)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205%20(2).png)
+[heuristic-5(1)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205.png)
+[heuristic-5(2)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205%20(2).png)
 
 ## **6: Recognition rather than recall**
 The menu bar has a list of options that the user can search for, allowing the user to recognize which service they are looking for
@@ -54,7 +54,7 @@ The most recent search field is saved, however there is no "search history" for 
 Severity rating: 
 Why:
 
-[heuristic 6](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
+[heuristic-6](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
 ## **7: Flexibility and efficiency of use**
 For flight search, the user has to select their class preference, limited their ability to see options for multiple classes at the same time
@@ -72,7 +72,7 @@ If a user mispells a destination, a dropdown list of destinations appear and the
 Severity rating: 2
 Why: The app does not provide details on how the user can solve or rectify their mistake; they are left to figure it out on their own
 
-[heuristic 9](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%209.png)
+[heuristic-9](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%209.png)
 
 ## **10: Help and documentation**
 Not being sure which airport to pick when typing in a city for a flight
