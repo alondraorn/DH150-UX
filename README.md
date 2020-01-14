@@ -1,4 +1,4 @@
-# Community of Travelers and Aventure-Seekers
+# Community of Travelers and Adventure-Seekers
 
 ## DH150 Assignment01: Heuristic Evaluation by Priyana Patel
 
