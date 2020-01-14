@@ -59,7 +59,7 @@ Why: Expedia does a satsifactory job of preventing errors in the user flow, howe
 ## **6: Recognition rather than recall**
 The menu bar has a list of options that the user can search for, allowing the user to recognize which service they are looking for <br />
 The most recent search field is saved, however there is no "search history" for all searches <br />
-Severity rating: 2
+Severity rating: 2 <br />
 Why: While previous locations and dates from the search field are saved, the user is forced to remember a particular package (i.e. hotel name, flight no.) if they left the page at a previous time
 
 [heuristic-6](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
@@ -68,7 +68,7 @@ Why: While previous locations and dates from the search field are saved, the use
 For flight searches, the user has to select their class preference, limiting their ability to see options for multiple classes at the same time <br />
 To book a cruise, the user is directed from the app to the desktop site <br />
 The user does not have an option to save their search result for later viewing <br />
-Severity rating: 2
+Severity rating: 2 <br />
 Why: There are minor issues that disrupt the user flow, however, information such as class preference are explained in more detail at the checkout page (harder to overcome for inexperienced users)
 
 [heuristic 7](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%207.png)
@@ -76,7 +76,7 @@ Why: There are minor issues that disrupt the user flow, however, information suc
 ## **8: Aesthetic and minimalistic design**
 There are a lot of rated features and disclaimer information on the guest reviews section for hotels, making it difficult for the user to sort through meaningful ratings of a particular hotel <br />
 There is an overload of information under each hotel (location, room option, features/amenities, fees, policies, and taxes); it is hard for users to discern the main things to know such as tourist taxes, minimum check-in age, etc. <br />
-Severity rating: 2
+Severity rating: 2 <br />
 Why: While there is minimal and sufficient information in the first few pages of the search results, the abundance of information on the following pages causes users to miss crucial information and limits task efficiency 
 
 [heuristic-8](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%208.png)
