@@ -14,14 +14,33 @@ Overall, I feel that Expedia provides a relatively straightforward, step-by-step
 
 [homepage](https://github.com/priyanapatel57/DH150-UX/blob/master/expedia%20homepage.png)
 
+## App #2
+
+link*
+
+The app I chose to...
+
+Overall, ...
+
+picture 
+
 ### 1: Visibility of system status
+
+#### Expedia
 Shows each step everytime the page loads (step 1: select hotel, step 2: select outbound flight, step 3: select inbound flight) <br />
 Severity rating: 1 <br />
 Why: The user is only able to see their progress when they are in-between steps and the next page is loading.
 
 [heuristic-1](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%201.png)
 
+#### Southwest
+Shows the users if they are logged in on the left sidebar menu, with rapid rewards number and rewards points 
+Severity rating: 
+Why: 
+
 ### 2: Match between system and the real world
+
+#### Expedia 
 Good use of icons, such as luggage, buildings, cruise boats, planes, etc. <br />
 Hotel search results are positioned on a map with price points, allowing the user to view accomodations in terms of proximity to their destination. <br />
 Severity rating: 1 <br />
@@ -29,7 +48,13 @@ Why: Expedia does a satisfactory job of using language that the user can underst
 
 [heuristic-2](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
+#### Southwest 
+Severity rating: 
+Why: 
+
 ### **3: User control and freedom**
+
+#### Expedia 
 There is an upper pulldown bar that the user can access to edit the search field <br />
 Once on the final checkout page, the user has to keep clicking the back arrow if they want to change one leg of the flight <br />
 The user is only able to book airline tickets for a maximum of 6 people, limiting how many people they can book for their travel needs (not ideal for large groups) <br />
@@ -39,7 +64,11 @@ Why: There are a few restrictions on user freedom that limit how much informatio
 
 [heuristic-3](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%203.jpg)
 
+#### Southwest 
+
 ### **4: Consistency and standards**
+
+#### Expedia 
 Text or icons in blue are actionable items, red items are used when a feature is not available (non-refundable), green items are used when a feature is available (free cancellation) <br />
 The flight search field is almost the exact same as the bundle search field, creating ambiguity <br />
 Severity rating: 1 <br />
@@ -47,7 +76,11 @@ Why: Expedia does a satsifactory job of using consistent colors for actionable i
 
 [heuristic 4](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%204.png)
 
+#### Southwest 
+
 ### **5: Error prevention** 
+
+#### Expedia 
 Once on the overview page before checkout, if a user tries to exit, a warning message appears asking if they would like to start a new search (reminding them that their current package will be cleared) <br />
 In the search field, there is no message for the user if they forget to fill out a field, such as "Flying to"; the search button remains unhighlighted <br />
 Severity rating: 2 <br />
@@ -56,7 +89,11 @@ Why: Expedia does a satsifactory job of preventing errors in the user flow, howe
 [heuristic-5(1)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205.png)
 [heuristic-5(2)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%205%20(2).png)
 
+#### Southwest 
+
 ### **6: Recognition rather than recall**
+
+#### Exedia 
 The menu bar has a list of options that the user can search for, allowing the user to recognize which service they are looking for <br />
 The most recent search field is saved, however there is no "search history" for all searches <br />
 Severity rating: 2 <br />
@@ -64,7 +101,14 @@ Why: While previous locations and dates from the search field are saved, the use
 
 [heuristic-6](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
+#### Southwest 
+There is a collapsible sidebar menu that gives the user the option to book a flight, car, hotel or vacation package without having to remember what they would like to do in the app <br />
+Severity rating: 1
+Why: 
+
 ### **7: Flexibility and efficiency of use**
+
+#### Expedia 
 For flight searches, the user has to select their class preference, limiting their ability to see options for multiple classes at the same time <br />
 To book a cruise, the user is directed from the app to the desktop site <br />
 The user does not have an option to save their search result for later viewing <br />
@@ -73,7 +117,16 @@ Why: There are minor issues that disrupt the user flow, however, information suc
 
 [heuristic 7](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%207.png)
 
+#### Southwest
+To book a car rental, the user is directed from the app to the desktop website <br />
+There are multiple access points for the user to view their profile (profile icon, name, collapsible sidebar menu) creating ambiguity <br />
+Severity rating: 2 <br />
+Why:
+
+
 ### **8: Aesthetic and minimalistic design**
+
+#### Expedia 
 There are a lot of rated features and disclaimer information on the guest reviews section for hotels, making it difficult for the user to sort through meaningful ratings of a particular hotel <br />
 There is an overload of information under each hotel (location, room option, features/amenities, fees, policies, and taxes); it is hard for users to discern the main things to know such as tourist taxes, minimum check-in age, etc. <br />
 Severity rating: 2 <br />
@@ -81,14 +134,22 @@ Why: While there is minimal and sufficient information in the first few pages of
 
 [heuristic-8](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%208.png)
 
+#### Southwest 
+
 ### **9: Help users recognize, diagnose, and recover from errors**
+
+#### Expedia 
 If a user mispells a destination, a dropdown list of destinations appear and they must click one of those to proceed <br />
 Severity rating: 2 <br />
 Why: The app does not provide details on how the user can solve or rectify their mistake; they are left to figure it out on their own
 
 [heuristic-9](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%209.png)
 
+#### Southwest 
+
 ### **10: Help and documentation**
+
+#### Expedia 
 Not being sure which airport to pick when typing in a city for a flight <br />
 Information icons for flight class and baggage fees appear after a flight is selected (not before the user fills out the search field) <br />
 Severity rating: 2 <br />
@@ -97,45 +158,4 @@ Why: While Expedia provides help in a timely manner during the selection process
 [heuristic-10(1)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%2010.png)
 [heuristic-10(2)](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%2010%20(2).png)
 
-## App #2: Southwest 
-
-### 1: Visibility of system status
-Severity rating: 
-Why: 
-
-### 2: Match between system and the real world
-Severity rating: 
-Why: 
-
-### 3: User control and freedom
-Severity rating:
-Why:
-
-### 4: Consistency and standards
-Severity rating:
-Why:
-
-### 5: Error prevention
-Severity rating:
-Why:
-
-### 6: Recognition rather than recall 
-Severity rating:
-Why:
-
-### 7: Flexibility and efficiency of use
-Severity rating:
-Why:
-
-### 8: Aesthetic and minimalistic design
-Severity rating:
-Why:
-
-### 9: Help users recognize, diagnose, and recover from errors
-Severity rating:
-Why:
-
-### 10: Help and documentation
-Severity rating:
-Why:
-
+#### Southwest
