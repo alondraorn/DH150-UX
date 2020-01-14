@@ -16,7 +16,7 @@ Overall, I feel that Expedia provides a relatively straightforward, step-by-step
 
 ## 1: Visibility of system status
 Shows each step everytime the page loads (step 1: select hotel, step 2: select outbound flight, step 3: select inbound flight)
-Severity rating: 2 
+Severity rating: 2
 Why: The user is only able to see their progress when they are in-between steps and the next page is loading)
 
 [heuristic-1](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%201.png)
