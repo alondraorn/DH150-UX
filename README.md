@@ -33,7 +33,7 @@ Why: Expedia does a satisfactory job of using language that the user can underst
 There is an upper pulldown bar that the user can access to edit the search field <br />
 Once on the final checkout page, the user has to keep clicking the back arrow if they want to change one leg of the flight <br />
 The user is only able to book airline tickets for a maximum of 6 people, limiting how many people they can book for their travel needs (not ideal for large groups) <br />
-Hotel reviews cannot be filtered out by "helpful", "critical" as on the desktop site
+Hotel reviews cannot be filtered out by "helpful", "critical" as on the desktop site <br />
 Severity rating: 2 <br />
 Why: There are a few restrictions on user freedom that limit how much information is visible to the user, however, they do not severely prevent the user as they go through each step to the final checkout page. 
 
