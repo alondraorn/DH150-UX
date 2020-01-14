@@ -4,7 +4,7 @@
 
 The community that I feel I belong to is a community that seeks adventure, travels to new places, spends time with friends and family, and never feels settled in one place. I feel a close association with this community because as an immigrant from the United Kingdom, I call multiple places home. This community is a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore.  
 
-The app that I chose to best represent this community is Expedia. Expedia users can be lone travelers, families looking to get away, or business travelers. Expedia is an online travel agency that can be used to book flights, hotels, car rentals, cruises, and bundle deals. 
+The app that I chose to best represent this community is Expedia. Expedia users can be lone travelers, friends or families looking to get away, or business travelers. Expedia is an online travel agency that can be used to book flights, hotels, car rentals, cruises, and bundle deals. 
 
 [homepage](https://github.com/priyanapatel57/DH150-UX/blob/master/expedia%20homepage.png)
 
