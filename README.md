@@ -14,11 +14,11 @@ Overall, I feel that Expedia provides a relatively straightforward, step-by-step
 
 ![expedia homepage](https://user-images.githubusercontent.com/59623155/72394198-31902980-36ea-11ea-8af2-35a48d7f58bb.png)
 
-## App #2
+## App #2: Southwest
 
 https://www.southwest.com/html/air/products/mobile.html
 
-The second app I chose to reflect users of this community is the Southwest app. Southwest users can also be lone travelers, friends or families booking vacations, or business travelers. Most importantly, Southwest users are those who may be booking a last minute flights, seeking flexibility and budget prices. Southwest is a mobile platform and extension of the American airline company which allows users to book flights, check-in, change existing reservations, as well as check flight status, boarding position, and gate information. 
+The second app I chose to reflect users of this community is the Southwest app. Southwest users can also be lone travelers, friends or families booking vacations, and business travelers. Most importantly, Southwest users are those who may be booking last minute flights, seeking flexibility and budget prices. Southwest is a mobile platform and extension of the American airline company which allows users to book flights, check-in, change existing reservations, as well as check flight status, boarding position, and gate information. 
 
 Overall, Southwest allows the user to access pertinent, real-time information regarding their flight that they would otherwise have to ask in-person to Southwest personnel. The main UX issues that I found that can be improved are: too much text, too many access points, and unnecessary promotional images that distract first-time users from the main goal of the app.  
 
@@ -34,10 +34,10 @@ Why: The user is only able to see their progress when they are in-between steps 
 [heuristic-1](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%201.png)
 
 #### Southwest
-Shows the users if they are logged in on the left sidebar menu, with rapid rewards number and rewards points
-Users are aware when they are selecting their departing/returning flight, but there is no progress bar until after flights are selected
+Shows the users if they are logged in on the left sidebar menu, with rapid rewards number and rewards points <br />
+Users are aware when they are selecting their departing/returning flight, but there is no progress bar until after flights are selected <br />
 Severity rating: 1
-Why: 
+Why: Users are relatively aware of their progress in the site despite a few inconsistencies. 
 
 ### 2: Match between system and the real world
 
@@ -50,8 +50,9 @@ Why: Expedia does a satisfactory job of using language that the user can underst
 [heuristic-2](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
 #### Southwest 
-Severity rating: 
-Why: 
+The app uses familiar and conversational language, such as "Our spring sale is on. Wanna get away?"
+Severity rating: 1
+Why: Southwest speaks the user's language, using consistent and familiar terminology.
 
 ### **3: User control and freedom**
 
@@ -68,7 +69,7 @@ Why: There are a few restrictions on user freedom that limit how much informatio
 #### Southwest 
 A user has to press the back button if they would like to change the airport city, passenger number, or dates of their search at any time <br />
 Severity rating: 2
-Why: 
+Why: The user has a lot of control while naviagting through the app however there are inconsistencies in freedom and control that disrupt task flow, such as booking a flight 
 
 ### **4: Consistency and standards**
 
@@ -83,7 +84,7 @@ Why: Expedia does a satsifactory job of using consistent colors for actionable i
 #### Southwest 
 The app uses colors such as red when flights are delayed, green when flights are on time, and blue for actionable items <br />
 Severity rating: 1
-Why: 
+Why: Southwest does a satsifactory job of creating a consistent environment for the user, where similar colors mean similar things. 
 
 ### **5: Error prevention** 
 
@@ -99,7 +100,7 @@ Why: Expedia does a satsifactory job of preventing errors in the user flow, howe
 #### Southwest 
 An error message appears if a user misspells their reservation number when attempting to check-in to their flight <br />
 Severity rating: 1
-Why: 
+Why: Southwest does a satisfactory job of displaying error messages with helpful steps and tips 
 
 ### **6: Recognition rather than recall**
 
@@ -113,8 +114,9 @@ Why: While previous locations and dates from the search field are saved, the use
 
 #### Southwest 
 There is a collapsible sidebar menu that gives the user the option to book a flight, car, hotel or vacation package without having to remember what they would like to do in the app <br />
+Previous searches, such as airport cities, are not saved in the search field for future use <br />
 Severity rating: 1
-Why: 
+Why: Users are given numerous icons and access points based on their travel needs
 
 ### **7: Flexibility and efficiency of use**
 
@@ -131,7 +133,7 @@ Why: There are minor issues that disrupt the user flow, however, information suc
 To book a hotel or car rental, the user is directed from the app to the desktop website <br />
 There are multiple access points for the user to view their profile (profile icon, name, collapsible sidebar menu) creating ambiguity <br />
 Severity rating: 2 <br />
-Why:
+Why: With number icons and text to access the same thing, a user may be unsure of which to select, causing confusion and wasting time
 
 ### **8: Aesthetic and minimalistic design**
 
@@ -144,9 +146,9 @@ Why: While there is minimal and sufficient information in the first few pages of
 [heuristic-8](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%208.png)
 
 #### Southwest 
-There is an overload of promotional offers and images on the homepage that distracts the user <br />
-Severity rating: 2
-Why: 
+There is an overload of promotional offers, such as signing up for the travel credit card, as well as images on the homepage that distracts the user <br />
+Severity rating: 2 <br />
+Why: Inconsistencies in design and layout create less efficient task flows for the user 
 
 #### Southwest 
 On the homepage, there are a lot of upsells and promotional offers that take away from the main goal of the app: to book a flight <br />
