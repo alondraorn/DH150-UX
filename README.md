@@ -36,7 +36,7 @@ Why: The user is only able to see their progress when they are in-between steps 
 #### Southwest
 Shows the users if they are logged in on the left sidebar menu, with rapid rewards number and rewards points <br />
 Users are aware when they are selecting their departing/returning flight, but there is no progress bar until after flights are selected <br />
-Severity rating: 1
+Severity rating: 1 <br />
 Why: Users are relatively aware of their progress in the site despite a few inconsistencies. 
 
 ### 2: Match between system and the real world
@@ -50,8 +50,8 @@ Why: Expedia does a satisfactory job of using language that the user can underst
 [heuristic-2](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%206.png)
 
 #### Southwest 
-The app uses familiar and conversational language, such as "Our spring sale is on. Wanna get away?"
-Severity rating: 1
+The app uses familiar and conversational language, such as "Our spring sale is on. Wanna get away?" <br />
+Severity rating: 1 <br />
 Why: Southwest speaks the user's language, using consistent and familiar terminology.
 
 ### **3: User control and freedom**
@@ -68,8 +68,8 @@ Why: There are a few restrictions on user freedom that limit how much informatio
 
 #### Southwest 
 A user has to press the back button if they would like to change the airport city, passenger number, or dates of their search at any time <br />
-Severity rating: 2
-Why: The user has a lot of control while naviagting through the app however there are inconsistencies in freedom and control that disrupt task flow, such as booking a flight 
+Severity rating: 2 <br />
+Why: The user has a lot of control while navigating through the app however there are inconsistencies in freedom and control that disrupt task flow, such as booking a flight.
 
 ### **4: Consistency and standards**
 
@@ -83,7 +83,7 @@ Why: Expedia does a satsifactory job of using consistent colors for actionable i
 
 #### Southwest 
 The app uses colors such as red when flights are delayed, green when flights are on time, and blue for actionable items <br />
-Severity rating: 1
+Severity rating: 1 <br />
 Why: Southwest does a satsifactory job of creating a consistent environment for the user, where similar colors mean similar things. 
 
 ### **5: Error prevention** 
@@ -99,7 +99,7 @@ Why: Expedia does a satsifactory job of preventing errors in the user flow, howe
 
 #### Southwest 
 An error message appears if a user misspells their reservation number when attempting to check-in to their flight <br />
-Severity rating: 1
+Severity rating: 1 <br />
 Why: Southwest does a satisfactory job of displaying error messages with helpful steps and tips 
 
 ### **6: Recognition rather than recall**
@@ -115,7 +115,7 @@ Why: While previous locations and dates from the search field are saved, the use
 #### Southwest 
 There is a collapsible sidebar menu that gives the user the option to book a flight, car, hotel or vacation package without having to remember what they would like to do in the app <br />
 Previous searches, such as airport cities, are not saved in the search field for future use <br />
-Severity rating: 1
+Severity rating: 1 <br />
 Why: Users are given numerous icons and access points based on their travel needs
 
 ### **7: Flexibility and efficiency of use**
@@ -125,7 +125,7 @@ For flight searches, the user has to select their class preference, limiting the
 To book a cruise, the user is directed from the app to the desktop site <br />
 The user does not have an option to save their search result for later viewing <br />
 Severity rating: 2 <br />
-Why: There are minor issues that disrupt the user flow, however, information such as class preference are explained in more detail at the checkout page (harder to overcome for inexperienced users)
+Why: There are minor issues that disrupt the user flow, however, information such as class preference are explained in more detail at the checkout page (harder to overcome for inexperienced users).
 
 [heuristic 7](https://github.com/priyanapatel57/DH150-UX/blob/master/heuristic%207.png)
 
@@ -148,12 +148,12 @@ Why: While there is minimal and sufficient information in the first few pages of
 #### Southwest 
 There is an overload of promotional offers, such as signing up for the travel credit card, as well as images on the homepage that distracts the user <br />
 Severity rating: 2 <br />
-Why: Inconsistencies in design and layout create less efficient task flows for the user 
+Why: Inconsistencies in design and layout create less efficient task flows for the user.
 
 #### Southwest 
 On the homepage, there are a lot of upsells and promotional offers that take away from the main goal of the app: to book a flight <br />
-Severity rating: 2
-Why: Promotional offers are more relevant for loyal customers rather than first time travelers, preventing them from exploring the app further 
+Severity rating: 2 <br />
+Why: Promotional offers are more relevant for loyal customers rather than first time travelers, preventing them from exploring the app further. 
 
 ### **9: Help users recognize, diagnose, and recover from errors**
 
@@ -168,7 +168,7 @@ Why: The app does not provide details on how the user can solve or rectify their
 The user is reminded to turn on location services to speed up their services and airport experience, providing adequate reasoning and a more comfortable and efficent app experience later on <br />
 There is no warning message if a user tries to select nonsensical dates, such as the 14th to the 12th <br />
 Severity rating: 2 <br />
-Why: Southwest does a satisfactory job of preventing errors, however, there are not a lot of warning messages for users to recognize errors
+Why: Southwest does a satisfactory job of preventing errors, however, there are not a lot of warning messages for users to recognize errors.
 
 ### **10: Help and documentation**
 
@@ -184,5 +184,5 @@ Why: While Expedia provides help in a timely manner during the selection process
 #### Southwest
 If a user is not logged in, they receive a reminder to do so or sign up as rapid rewards members; they are reminded of the benefits of enrolling in the program as opposed to checking out as a guest <br />
 There is a table comparing the benefits between A-List and A-List Preferred <br />
-Severity rating: 1
+Severity rating: 1 <br />
 Why: There is satisfactory information that explains certain guidelines when the user is in the booking process
