@@ -24,7 +24,7 @@ Describe the process (ex. Background questions, pretest, posttest) and what was 
 
 ## Test Materials
 The usability materials [here](https://forms.gle/MHQAF77iuMZf7VBQ6)
-The pilot test video [here]**
+The screen recording pilot test video [here](https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing)
 
 ## Results and Reflection
 One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
