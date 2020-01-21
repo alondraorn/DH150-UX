@@ -4,8 +4,6 @@ Priyana Patel
 
 January 20, 2020
 
-## Table of Contents 
-
 ## Introduction 
 
 Expedia is an online travel agency that can be used to book flights, hotels, car rentals, cruises, and bundle deals.
