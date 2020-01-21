@@ -34,7 +34,8 @@ The participant attempted to complete the following task:
 
 ## Test Materials
 The usability materials [here](https://forms.gle/MHQAF77iuMZf7VBQ6) <br/>
-The screen recording pilot test video [here (https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing)
+The screen recording pilot test video [here](https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing)
+The participant pilot test video [here](https://drive.google.com/file/d/1-3wc-VGVAWKpTJX5TbnQ7VPv2E9d1w-t/view?usp=sharing)
 
 ## Results and Reflection
 During the pilot test, I learned that booking a hotel and flight through the bundle feature on the Expedia app are relatively straightforward despite a few difficulties narrowing price ranges. There were, however, issues with user freedom and control when the participant tried to navigated backwards to edit their travel dates and select a new hotel and flight. 
