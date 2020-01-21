@@ -23,10 +23,10 @@ Overall, the participant found the Expedia app easy to use and was able to fully
 The usability test consisted of an introduction to the procedure, explanation of informed consent, background questions to check for prior use, pre-test questions, task directions, post-test questions, system usability scale, production satisfaction card, and participant demographics. The following were measured: ease of use, task difficulty, and learnability. The test moderator walked the user through the pre-test, tasks instructions, and post-test. Based on the task scenario, the participant tried to find information and execute the designated task on the app.
 
 ### Participant 
-Age: 21
-Gender: Female
-Ethnicity: Arab
-English as primary language: Yes
+Age: 21 <br/>
+Gender: Female <br/>
+Ethnicity: Arab <br/>
+English as primary language: Yes <br/>
 
 ### Evaluation Tasks/Scenarios
 The participant attempted to complete the following task:
@@ -35,11 +35,11 @@ The participant attempted to complete the following task:
 3. Adjust the trip to lower the overall cost
 
 ## Test Materials
-The usability materials [here](https://forms.gle/MHQAF77iuMZf7VBQ6)
-The screen recording pilot test video [here](https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing)
+The usability materials [here](https://forms.gle/MHQAF77iuMZf7VBQ6) <br/>
+The screen recording pilot test video [here (https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing)
 
 ## Results and Reflection
-During the pilot test, I learned that booking a hotel and flight through the bundle feature on the Expedia app are relatively straightforward despite a few difficulties narrowing price ranges. There were issues with user freedom and control when the participant tried to navigated backwards to edit their travel dates and select a new hotel and flights. 
+During the pilot test, I learned that booking a hotel and flight through the bundle feature on the Expedia app are relatively straightforward despite a few difficulties narrowing price ranges. There were, however, issues with user freedom and control when the participant tried to navigated backwards to edit their travel dates and select a new hotel and flight. 
 
-What worked well was screen recording the user's interaction with the Expedia app while also recording their audio as they stated their thoughts, concerns, and inquiries. Some issues that arose were that the app took a while to load search results and a few minor format errors on the usability document. I would like to improve my usability testing in the future by being clear and consise when walking the participant through the process and answering questions. I believe this will help make directions clearer for the participant to complete the usability test to the best of ther ability. 
+What worked well was screen recording the user's interactions with the Expedia app while also recording their audio as they stated their thoughts, concerns, and inquiries. Some issues that arose were that the app took a while to load search results and a few minor format errors on the usability document. I would like to improve my usability testing in the future by being clear and consise when walking the participant through the process and answering questions. I believe this will help make directions clearer for the participant to complete the usability test to the best of ther ability. 
 
