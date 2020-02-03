@@ -25,8 +25,8 @@ The contextual inquiry will be a direct interview at the participant's home wher
 Field research script [here](https://docs.google.com/document/d/1cPYKT5l8HgG3cQOQbNtYqccrieK7iGrtfc0FjQBzZb0/edit?usp=sharing)
 
 ## Data Files
-Digitized notes [here](https://docs.google.com/document/d/1dIze2Kohwfgc7zmluiID8JnY_U_b89Exp4SRKlzYJjM/edit?usp=sharing)
-Interview recording [here](https://drive.google.com/file/d/173GMr41ba-cl6QG1zD_KhwG7NplaXxV6/view?usp=sharing)
+Digitized notes [here](https://docs.google.com/document/d/1dIze2Kohwfgc7zmluiID8JnY_U_b89Exp4SRKlzYJjM/edit?usp=sharing) <br/>
+Interview recording [here](https://drive.google.com/file/d/173GMr41ba-cl6QG1zD_KhwG7NplaXxV6/view?usp=sharing) <br/>
 Interview transcript with user answers [here](https://docs.google.com/document/d/1HxZYK0fWK7NQGvmX5pIQPBifXRYjOkNCuyJQlur5tE0/edit?usp=sharing)
 
 ## Reflection 
