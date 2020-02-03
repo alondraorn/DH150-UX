@@ -1,4 +1,5 @@
 # Assignment 04: Contextual Inquiry
+Priyana Patel
 DH 150: User Experience Design
 
 ## Main Design Challenge 
