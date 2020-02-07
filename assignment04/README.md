@@ -19,7 +19,7 @@ Users tend to book travel plans in the comfort of their home or living spaces, w
 To complete the activity, users first establish a travel destination along with their projected booking dates and travel companions, if any. Using this information, they search for flight and hotel options. Based on their preferences, they further narrow down their options. Once the user agrees upon an option, they proceed to figure out payment details to finalize their itinerary. 
 
 ## Observation Method and Plan
-The contextual inquiry will be a direct interview at the participant's home where they would usually conduct searches on their mobile device for travel-related information. The interview process directs the user to search for the average price of hotel in Los Angeles and a last minute flight to San Francisco. I collected user data using pen-paper notes that were later typed out along with voice reordings. 
+The contextual inquiry will be a direct interview at the participant's home where they would usually conduct searches on their mobile device for travel-related information. The interview process directs the user to search for the average price of hotel in Los Angeles and a last minute flight to San Francisco. I collected user data using pen-paper notes that were later typed out along with transcribed voice reordings. 
 
 ## Observation/Interview Guide 
 Field research script [here](https://docs.google.com/document/d/1cPYKT5l8HgG3cQOQbNtYqccrieK7iGrtfc0FjQBzZb0/edit?usp=sharing)
