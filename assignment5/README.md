@@ -2,6 +2,11 @@
 Priyana Patel <br/>
 DH150: User Experience Design 
 
+## Features
+1. Price Tool - suggests what details of your trip to change (such as travel dates, location, airport) in order to fit a designated budget and price range 
+2. Minimized Booking Process - compares all airlines and websites and arranges flights by price visibility with personal recommendations, takes user directly to checkout after selecting flights 
+3. Recommendation Tool - Summarizes main points of customer reviews, shows highly recommended 
+
 ## Personas 
 ### Magdalena 
 [PICTURE]
@@ -34,16 +39,16 @@ Goals: Booking cost-efficient trips to various travel destinations <br/>
 Gender: Male <br/>
 Age: 23 <br/>
 Occupation: Healthcare Consultant <br/>
-Education: Bachelors of Science in Biology 
+Education: Bachelors of Science in Biology <br/>
 Location: New York City, NY, U.S.A.
 
-Motivations and Needs: Armani is a recent university graduate that just landed a job offer as a healthcare consultant at a hospital in New York City. His girlfriend works in San Francisco so they take it in turns visiting one another every month. Armani looks for last minute deals on flights as his work schdeule is hectic as a new employee. 
+Motivations and Needs: Armani is a recent university graduate that just landed a job offer as a healthcare consultant at a hospital in New York City. His girlfriend works in San Francisco so they take it in turns visiting one another every month. Armani looks for last minute deals on flights as his work schedule is hectic as a new employee. 
 
 Frustrations and Barriers: While Armani uses his mobile device to look up a lot of last-minute information, he prefers to book flights on his laptop.  He prefers the overall layout and user interface on travel desktop sites over their mobile apps. Armani finds the mobile travel-booking process long-winded with constant scrolling. This is invconvienent for him when he wants to book flights on the go, such as during the commute to work when he does not have the acessibility to a laptop.   
 
 *Empathy Map*
 
-Says: "I wish there was an easier way to compare flight prices for different airlines on my mobile device"
+Says: "I wish there was a shorter flight booking process when I'm pressed for time."
 
 Thinks: I'll have to wait until I get home to actually book my flight; My phone screen is too small to adequately view all flight options; I've been scrolling forever
 
@@ -55,10 +60,10 @@ Goals: Find conveinent, last-minute flight deals to San Francisco to spend time 
 
 ### Emma 
 [PICTURE]
-Gender: Female
-Age: 25
-Occupation: Freelance Graphic Designer
-Education: M.F.A. in graphic design 
+Gender: Female <br/>
+Age: 25 <br/>
+Occupation: Freelance Graphic Designer <br/>
+Education: M.F.A. in graphic design <br/>
 Location: Seattle, Washington, U.S.A.
 
 Motivations and Needs: Emma works at home but finds herself traveling frequently throughout the U.S. for work to meet with her clients. She likes to book package deals that include both her flight and hotel stay. Emma prefers that her accomodation is in a safe, conveinent location near popular points of interest as she is usually not familiar with the areas she travels to. She relies heavily on guest ratings to help her decision-making process. 
@@ -71,15 +76,65 @@ Environment: Emma compares travel packages between multiple tabs on her Internet
 
 Says: "I wish there was a tool that helped narrow my travel options with suggested recommendations from previous guests."
 
-Thinks: I 
+Thinks: I hope this hotel is in a safe neighborhood; The guest reviews are mostly positive; I wonder how I can sift through these ratings
 
-Does:
+Does: Filters her search according to location and guest rating, continuously scrolls through hotels 
 
-Feels: 
+Feels: Overwhelmed by the amount of accomodation options, confused and does not know how to sort through them in an efficient manner 
 
 Goals: Book package deals for business trips, with high-rated accomodations in good locations
 
 Notes: Someone who travels frequently, someone who is looking for a temporary living space, someone who books last minute trips, someone who is bot
 literature in travel, flight terms, 18-25?, college student, decision-making (scrolling), overload of info, quick/last-minute
+
+## Scenarios 
+
+*Scenario 1*
+
+Magdalena, an undergraduate college student, is excited to go on a trip with her friends for spring break to celebrate the end of finals. She is looking to book a bundle trip to Cabo, Mexico for 5 people for $300-$400 per person. Magdalena is constantly stressed and overwhelmed with work for her packed course schedule. She and her friends look up deals on their mobile devices and laptops during their study breaks and send screenshots and links to track possible options in their groupchat. Magdalena and her friends are looking for a cost-efficient, all-inclusive deal that fits their budget. They are open and flexible with flights and accomodations. 
+
+Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat. 
+
+User Journey Map With Solution
+
+GOAL - Book a bundle trip to Cabo
+Actions: Input Destination: Cabo, Number of People: 5, Dates: 3/21 - 3/29, and Departing airport, Travel Budget into the search field
+Thoughts: "I hope there are options that meet my search criteria"
+Emotions: Excited and hopeful to see available options
+
+CHALLENGE - Edit search field to meet budget
+Actions: Has to edit orginal search field to meet preferences and financial priorities
+Thoughts: "Is it cheaper if I fly on a weekeday?","Do these include connecting flights as well?"
+Emotions: Frustrated and unsure if she is looking at all available possibilities 
+
+SOLUTIONS - Provide guided price tool that automatically suggests ways to decreases the price of the trip
+Actions: A message displays saying that it is cheaper to change the dates of the trip to 3/22-3/28. Selects "Adjust Dates" and sorts through refreshed results
+Thoughts: "I'm okay with changing my travel dates if it saves me $100. I'm going to send this to the group."
+Emotions: Satisfied and relieved that there is an option to see results that meets her financial restrictions
+
+*Scenario 2*
+
+Armani, a healthcare consultant in New York City, frequently books last-minute flights to visit his girlfriend in San Francisco once a month. On Monday, he decides that he wants to travel to San Francisco Friday evening and return to New York City Sunday evening. Armani has time to search for flights on his mobile device during his commute to work and his lunch break, and on his laptop when he returns to his apartment in the evening. Armani wants to book his trip as soon as possible so it would be ideal if he can book on his mobile device to secure the best last-minute deal. 
+
+Use Case: Armani opens his travel app while riding the subway to work. He searches for a flight from JFK to SFO from Friday to Sunday. He sorts and filters by evening flights, from lowest to highest price. Armani feels stressed, worried, and a little unsure that he is looking at all of his flight options for the cheapest flights. He wants to make sure he is checking all airlines and travel sites. Armani does not have enough time to finish his booking process before getting off at his stop. Frustrated, Armani closes the app and resolves to checking again during his lunch break. 
+
+User Journey Map with Solution
+
+GOAL - Book a last-minute flight to San Francisco
+Actions: Inputs "JFK to SFO" and travel dates in the search bar, narrows search results by flight time and price
+Thoughts: "I hope I can find a good deal for flights this weekend. I already made plans and don't want to change them."
+Emotions: Eager to book last-minute plans for the weekend, worried that it may be too late to book
+
+CHALLENGE - Booking process is too long, hard to search through all available options in a efficient manner
+Actions: 
+Thoughts:
+Emotions:
+
+SOLUTION
+Actions:
+Thoughts:
+Emotions:
+
+*Scenario 3*
 
 
