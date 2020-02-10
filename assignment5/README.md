@@ -9,7 +9,7 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-[PICTURE]
+[PICTURE] <br/>
 Gender: Female <br/>
 Age: 18 <br/>
 Occupation: UCLA undergraduate student <br/>
@@ -35,7 +35,7 @@ Feels: Tired and frustrated after completing numerous searches and not getting t
 Goals: Booking cost-efficient trips to various travel destinations <br/>
 
 ### Armani
-[PICTURE]
+[PICTURE] <br/>
 Gender: Male <br/>
 Age: 23 <br/>
 Occupation: Healthcare Consultant <br/>
@@ -59,7 +59,7 @@ Feels: Stressed and worried because he needs to book his flight as soon as possi
 Goals: Find conveinent, last-minute flight deals to San Francisco to spend time with his girlfriend 
 
 ### Emma 
-[PICTURE]
+[PICTURE] <br/>
 Gender: Female <br/>
 Age: 25 <br/>
 Occupation: Freelance Graphic Designer <br/>
@@ -136,5 +136,9 @@ Thoughts:
 Emotions:
 
 *Scenario 3*
+
+Emma, a freelance graphic designer from Seattle, travels frequently for work to meet with her clients. Her next meeting is scheduled for next month in Atlanta. Emma needs to book flights and accomodation for her trip. This will be her first time traveling to Atlanta and would like to find a hotel or apartment with a conveinent location near the city. Emma, who spends most of her time on her laptop, looks for bundle deals on travel websites on her latop. She usually compares deals from multiple sites between different tabs on her Internet browser to find the best option. Emma's goal is to find conveinent flights and a highly-rated place to stay as she she has no idea what to expect from hotels in the area. 
+
+Use Case: Emma opens her laptop while relaxing on the couch after her long day of work. She begins her general search, typing her travel destination and the dates of her stay. 
 
 
