@@ -9,7 +9,7 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-[PICTURE] <br/>
+[woman-smiling-sitting-on-car-window-2952775](https://user-images.githubusercontent.com/59623155/74171531-93598b80-4be3-11ea-844e-2f85c30b1898.jpg)
 Gender: Female <br/>
 Age: 18 <br/>
 Occupation: UCLA undergraduate student <br/>
