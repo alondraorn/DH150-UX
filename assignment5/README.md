@@ -27,15 +27,17 @@ Magdalena, an undergraduate college student, is excited to go on a trip with her
 
 Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat. 
 
-<div align="right"> *User Journey Map With Solution* </div>
+<div align="right"> User Journey Map With Solution </div>
 
-*Scenario 2*
+### Scenario 2
+
+<img align="right" width ="450" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74218693-82e6f680-4c5f-11ea-916c-c449a6d71d3f.png">
 
 Armani, a healthcare consultant in New York City, frequently books last-minute flights to visit his girlfriend in San Francisco once a month. On Monday, he decides that he wants to travel to San Francisco Friday evening and return to New York City Sunday evening. Armani has time to search for flights on his mobile device during his commute to work and his lunch break, and on his laptop when he returns to his apartment in the evening. Armani wants to book his trip as soon as possible so it would be ideal if he can book on his mobile device to secure the best last-minute deal. 
 
 Use Case: Armani opens his travel app while riding the subway to work. He searches for a flight from JFK to SFO from Friday to Sunday. He sorts and filters by evening flights, from lowest to highest price. Armani feels stressed, worried, and a little unsure that he is looking at all of his flight options for the cheapest flights. He wants to make sure he is checking all airlines and travel sites. Armani does not have enough time to finish his booking process before getting off at his stop. Frustrated, Armani closes the app and resolves to checking again during his lunch break. 
 
-User Journey Map with Solution
+<div align="right"> User Journey Map With Solution </div>
 
 GOAL - Book a last-minute, roundtrip flight to San Francisco
 Actions: Inputs "JFK to SFO" and travel dates in the search bar, narrows search results by flight time and price
