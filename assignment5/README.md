@@ -11,7 +11,7 @@ DH150: User Experience Design
 ### Magdalena 
 <img align="left" width="605" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png">
 
-#####*Empathy Map:*
+*Empathy Map:*
 
 Says: "It's really hard to find trips that fit my budget. I wish there was a more individualized travel-booking process that showed me what factors can lower the cost of my trip." <br/>
 
@@ -21,19 +21,8 @@ Does: Edits her current search by changing her dates of travel
 
 Feels: Tired and frustrated after completing numerous searches and not getting the results she wants
 
-Goals: Booking cost-efficient trips to various travel destinations <br/>
-
 ### Armani
-[PICTURE] <br/>
-Gender: Male <br/>
-Age: 23 <br/>
-Occupation: Healthcare Consultant <br/>
-Education: Bachelors of Science in Biology <br/>
-Location: New York City, NY, U.S.A.
-
-Motivations and Needs: Armani is a recent university graduate that just landed a job offer as a healthcare consultant at a hospital in New York City. His girlfriend works in San Francisco so they take it in turns visiting one another every month. Armani looks for last minute deals on flights as his work schedule is hectic as a new employee. 
-
-Frustrations and Barriers: While Armani uses his mobile device to look up a lot of last-minute information, he prefers to book flights on his laptop.  He prefers the overall layout and user interface on travel desktop sites over their mobile apps. Armani finds the mobile travel-booking process long-winded with constant scrolling. This is invconvienent for him when he wants to book flights on the go, such as during the commute to work when he does not have the acessibility to a laptop.   
+<img align = "left" width="609" alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png">
 
 *Empathy Map*
 
