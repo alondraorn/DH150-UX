@@ -27,7 +27,7 @@ Magdalena, an undergraduate college student, is excited to go on a trip with her
 
 Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat. 
 
-< div align = "right"> *User Journey Map With Solution* </div>
+< div align="right"> *User Journey Map With Solution* </div>
 
 *Scenario 2*
 
