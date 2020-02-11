@@ -15,17 +15,7 @@ DH150: User Experience Design
 <img align = "left" height="330"  alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png"> <img align="right" height="330" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png">
 
 ### Emma 
-<img align = "left" width="525" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png">
-
-*Empathy Map*
-
-Says: "I wish there was a tool that helped narrow my travel options with suggested recommendations from previous guests."
-
-Thinks: I hope this hotel is in a safe neighborhood; The guest reviews are mostly positive; I wonder how I can sift through these ratings
-
-Does: Filters her search according to location and guest rating, continuously scrolls through hotels 
-
-Feels: Overwhelmed by the amount of accomodation options, confused and does not know how to sort through them in an efficient manner 
+<img align = "left" width="525" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png"> <img align="right" height="330" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216918-be32f680-4c5a-11ea-8a68-b164418adb18.png">
 
 ## Scenarios 
 
