@@ -27,20 +27,7 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 
 User Journey Map With Solution
 
-GOAL - Book a bundle trip to Cabo
-Actions: Input Destination: Cabo, Number of People: 5, Dates: 3/21 - 3/29, and Departing airport, Travel Budget into the search field
-Thoughts: "I hope there are options that meet my search criteria"
-Emotions: Excited and hopeful to see available options
-
-CHALLENGE - Edit search field to meet budget
-Actions: Has to edit original search field to meet preferences and financial priorities
-Thoughts: "Is it cheaper if I fly on a weekday?","Do these include connecting flights as well?"
-Emotions: Frustrated and unsure if she is looking at all available possibilities 
-
-SOLUTIONS - Provide guided price tool that automatically suggests ways to decreases the price of the trip
-Actions: A message displays saying that it is cheaper to change the dates of the trip to 3/22-3/28. Selects "Adjust Dates" and sorts through refreshed results
-Thoughts: "I'm okay with changing my travel dates if it saves me $100. I'm going to send this to the group."
-Emotions: Satisfied, relieved, accomplished 
+<img width="322" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
 
 *Scenario 2*
 
