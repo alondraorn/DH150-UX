@@ -41,7 +41,7 @@ Use Case: Armani opens his travel app on his mobile phone while riding the subwa
 
 ### Scenario 3
 
-<img width="390" alt="Emma User Journey Map" src="https://user-images.githubusercontent.com/59623155/74219474-cb071880-4c61-11ea-98b1-8cffef07d7c7.png">
+<img align="right" width="390" alt="Emma User Journey Map" src="https://user-images.githubusercontent.com/59623155/74219474-cb071880-4c61-11ea-98b1-8cffef07d7c7.png">
 
 Emma, a freelance graphic designer from Seattle, travels frequently for work to meet with her clients. Her next meeting is scheduled for next month in Atlanta. Emma needs to book flights and accomodation for her trip. This will be her first time traveling to Atlanta and would like to find a hotel or apartment with a conveinent location near the city. Emma, who spends most of her time on her laptop, looks for bundle deals on travel websites on her latop. She usually compares deals from multiple sites between different tabs on her Internet browser to find the best option. Emma's goal is to find conveinent flights and a highly-rated place to stay as she she has no idea what to expect from hotels in the area. 
 
