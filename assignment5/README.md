@@ -9,7 +9,7 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-[woman-smiling-sitting-on-car-window-2952775](https://user-images.githubusercontent.com/59623155/74171531-93598b80-4be3-11ea-844e-2f85c30b1898.jpg)
+[PICTURE]
 Gender: Female <br/>
 Age: 18 <br/>
 Occupation: UCLA undergraduate student <br/>
@@ -84,9 +84,6 @@ Feels: Overwhelmed by the amount of accomodation options, confused and does not 
 
 Goals: Book package deals for business trips, with high-rated accomodations in good locations
 
-Notes: Someone who travels frequently, someone who is looking for a temporary living space, someone who books last minute trips, someone who is bot
-literature in travel, flight terms, 18-25?, college student, decision-making (scrolling), overload of info, quick/last-minute
-
 ## Scenarios 
 
 *Scenario 1*
@@ -110,7 +107,7 @@ Emotions: Frustrated and unsure if she is looking at all available possibilities
 SOLUTIONS - Provide guided price tool that automatically suggests ways to decreases the price of the trip
 Actions: A message displays saying that it is cheaper to change the dates of the trip to 3/22-3/28. Selects "Adjust Dates" and sorts through refreshed results
 Thoughts: "I'm okay with changing my travel dates if it saves me $100. I'm going to send this to the group."
-Emotions: Satisfied and relieved that there is an option to see results that meets her financial restrictions
+Emotions: Satisfied, relieved, accomplished 
 
 *Scenario 2*
 
@@ -120,25 +117,44 @@ Use Case: Armani opens his travel app while riding the subway to work. He search
 
 User Journey Map with Solution
 
-GOAL - Book a last-minute flight to San Francisco
+GOAL - Book a last-minute, roundtrip flight to San Francisco
 Actions: Inputs "JFK to SFO" and travel dates in the search bar, narrows search results by flight time and price
 Thoughts: "I hope I can find a good deal for flights this weekend. I already made plans and don't want to change them."
 Emotions: Eager to book last-minute plans for the weekend, worried that it may be too late to book
 
 CHALLENGE - Booking process is too long, hard to search through all available options in a efficient manner
-Actions: 
-Thoughts:
-Emotions:
+Actions: User scrolls through flights, reviews flight details, then returns to his search results, repeating this cycle again and again
+Thoughts: "I have to do this again for my outbound flight"
+Emotions: Frustrated, Impatient 
 
-SOLUTION
-Actions:
-Thoughts:
-Emotions:
+SOLUTION - Provide personalized and recommended results, give option to go straight to booking
+Actions: User selects "Last-Minute Deals" (flights are displayed by price visibility, time, airline), user selects outbound flights (similar inbound flights are directly displayed), user selects "Checkout" and canbook and pay for flights immediately
+Thoughts: "This saved me so much scrolling time"
+Emotions: Satisfied with the recommended flight suggestions, feeling accomplished and productive
 
 *Scenario 3*
 
 Emma, a freelance graphic designer from Seattle, travels frequently for work to meet with her clients. Her next meeting is scheduled for next month in Atlanta. Emma needs to book flights and accomodation for her trip. This will be her first time traveling to Atlanta and would like to find a hotel or apartment with a conveinent location near the city. Emma, who spends most of her time on her laptop, looks for bundle deals on travel websites on her latop. She usually compares deals from multiple sites between different tabs on her Internet browser to find the best option. Emma's goal is to find conveinent flights and a highly-rated place to stay as she she has no idea what to expect from hotels in the area. 
 
-Use Case: Emma opens her laptop while relaxing on the couch after her long day of work. She begins her general search, typing her travel destination and the dates of her stay. 
+Use Case: Emma opens her laptop while relaxing on the couch after her long day of work. She begins her general search, typing her travel destination and the dates of her stay in her Internet browser. She is first prompted to choose her hotel: Emma scrolls through various hotels, and filters the search results by price, and star rating. She has the ability to narrow down her results by location, however, since Emma is not familiar with Atlanta, she is unsure which one to select. If she likes the price, rating, and cover image of a hotel, she clicks on the hotel to learn more. She clicks on the map to see where the hotel is siutated and sorts through guest reviews by date. Emma becomes overwhelmed by the displayed information and is not sure whether or not the hotel fits her needs. She exits the travel website and closes her laptop, resolving to look again tomorrow with a fresh head. 
+
+User Journey with Solution
+
+GOAL - Book a flight and hotel for Atlanta, making sure the hotel is in a good location and well-rated
+Actions: Types in "bundle deals to Atlanta for next month", selects  the first travel website in the search results, enters her departure and arrival airport, specific dates, and number of people., narrows down search results by price and guest rating
+Thoughts: "I want to see prices and guest ratings"
+Emotions: Curious, hopeful 
+
+CHALLENGE - Sorting through hotels to find the right one, how to simplify the decision-making process
+Actions: User continuously scrolls through hotels, tries to skim through user reviews looking for keywords, clicks on the map to find where the hotel is located 
+Thoughts: "How do I check if the hotel is in a safe neighborhood?","Is there an easier way I can sort through these reviews?", "I want to know more about previous guest's experience at this hotel"
+Emotions: Frustrated, Overwhelmed
+
+SOLUTION - Help decision-making with suggested recommendations and organized guest ratings
+Actions: User selects "Recommended/Suggested for You" and a personalized list of hotels appear with a map of their relative location and price per night, user selects "Guest Reviews" which are personalized by relevance: Type of Traveler, Time of Year, Positive, Critical, Helpful, and Keywords ("Safe Neighborhood")
+Thoughts: "Thank goodness I don't have to read all of these reviews" 
+Emotions: Relieved, Accomplished
+
+
 
 
