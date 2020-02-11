@@ -9,7 +9,7 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-<img align="left" width="605" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png"> <br/>
+<img align="left" width="605" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png" <br/>
 Gender: Female <br/>
 Age: 18 <br/>
 Occupation: UCLA undergraduate student <br/>
