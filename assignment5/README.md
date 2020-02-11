@@ -19,7 +19,7 @@ DH150: User Experience Design
 
 ## Scenarios 
 
-*Scenario 1*
+### Scenario 1
 
 <img align="right" width ="450" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
 
@@ -35,7 +35,7 @@ Armani, a healthcare consultant in New York City, frequently books last-minute f
 
 Use Case: Armani opens his travel app while riding the subway to work. He searches for a flight from JFK to SFO from Friday to Sunday. He sorts and filters by evening flights, from lowest to highest price. Armani feels stressed, worried, and a little unsure that he is looking at all of his flight options for the cheapest flights. He wants to make sure he is checking all airlines and travel sites. Armani does not have enough time to finish his booking process before getting off at his stop. Frustrated, Armani closes the app and resolves to checking again during his lunch break. 
 
-User Journey Map with Solution
+<align = "right"> User Journey Map with Solution
 
 GOAL - Book a last-minute, roundtrip flight to San Francisco
 Actions: Inputs "JFK to SFO" and travel dates in the search bar, narrows search results by flight time and price
