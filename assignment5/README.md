@@ -9,7 +9,7 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-<img align="left" height="360" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png"> <img align="right" height="360" alt="Magdalena Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216021-eec56100-4c57-11ea-9db3-b3c7857e6256.png">
+<img align="left" height="350" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png"> <img align="right" height="350" alt="Magdalena Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216021-eec56100-4c57-11ea-9db3-b3c7857e6256.png">
 
 ### <br/> Armani
 <img align = "left" width="525"  alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png">
