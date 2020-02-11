@@ -27,7 +27,7 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 
 User Journey Map With Solution
 
-<img width="322" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
+<img align="right" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
 
 *Scenario 2*
 
