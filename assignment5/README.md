@@ -31,7 +31,7 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 
 ### Scenario 2
 
-<img align="right" width ="450" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74218693-82e6f680-4c5f-11ea-916c-c449a6d71d3f.png">
+<img align="right" width ="350" alt="Armani User Journey Map" src="https://user-images.githubusercontent.com/59623155/74218693-82e6f680-4c5f-11ea-916c-c449a6d71d3f.png">
 
 Armani, a healthcare consultant in New York City, frequently books last-minute flights to visit his girlfriend in San Francisco once a month. On Monday, he decides that he wants to travel to San Francisco Friday evening and return to New York City Sunday evening. Armani has time to search for flights on his mobile device during his commute to work and his lunch break, and on his laptop when he returns to his apartment in the evening. Armani wants to book his trip as soon as possible so it would be ideal if he can book on his mobile device to secure the best last-minute deal. 
 
