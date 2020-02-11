@@ -41,27 +41,10 @@ Use Case: Armani opens his travel app on his mobile phone while riding the subwa
 
 ### Scenario 3
 
+<img width="390" alt="Emma User Journey Map" src="https://user-images.githubusercontent.com/59623155/74219474-cb071880-4c61-11ea-98b1-8cffef07d7c7.png">
+
 Emma, a freelance graphic designer from Seattle, travels frequently for work to meet with her clients. Her next meeting is scheduled for next month in Atlanta. Emma needs to book flights and accomodation for her trip. This will be her first time traveling to Atlanta and would like to find a hotel or apartment with a conveinent location near the city. Emma, who spends most of her time on her laptop, looks for bundle deals on travel websites on her latop. She usually compares deals from multiple sites between different tabs on her Internet browser to find the best option. Emma's goal is to find conveinent flights and a highly-rated place to stay as she she has no idea what to expect from hotels in the area. 
 
 Use Case: Emma opens her laptop while relaxing on the couch after her long day of work. She begins her general search, typing her travel destination and the dates of her stay in her Internet browser. She is first prompted to choose her hotel: Emma scrolls through various hotels, and filters the search results by price, and star rating. She has the ability to narrow down her results by location, however, since Emma is not familiar with Atlanta, she is unsure which one to select. If she likes the price, rating, and cover image of a hotel, she clicks on the hotel to learn more. She clicks on the map to see where the hotel is siutated and sorts through guest reviews by date. Emma becomes overwhelmed by the displayed information and is not sure whether or not the hotel fits her needs. She exits the travel website and closes her laptop, resolving to look again tomorrow with a fresh head. 
 
-User Journey with Solution
-
-GOAL - Book a flight and hotel for Atlanta, making sure the hotel is in a good location and well-rated
-Actions: Types in "bundle deals to Atlanta for next month", selects  the first travel website in the search results, enters her departure and arrival airport, specific dates, and number of people., narrows down search results by price and guest rating
-Thoughts: "I want to see prices and guest ratings"
-Emotions: Curious, hopeful 
-
-CHALLENGE - Sorting through hotels to find the right one, how to simplify the decision-making process
-Actions: User continuously scrolls through hotels, tries to skim through user reviews looking for keywords, clicks on the map to find where the hotel is located 
-Thoughts: "How do I check if the hotel is in a safe neighborhood?","Is there an easier way I can sort through these reviews?", "I want to know more about previous guest's experience at this hotel"
-Emotions: Frustrated, Overwhelmed
-
-SOLUTION - Help decision-making with suggested recommendations and organized guest ratings
-Actions: User selects "Recommended/Suggested for You" and a personalized list of hotels appear with a map of their relative location and price per night, user selects "Guest Reviews" which are personalized by relevance: Type of Traveler, Time of Year, Positive, Critical, Helpful, and Keywords ("Safe Neighborhood")
-Thoughts: "Thank goodness I don't have to read all of these reviews" 
-Emotions: Relieved, Accomplished
-
-
-
-
+<div align="right"> User Journey Map With Solution </div>
