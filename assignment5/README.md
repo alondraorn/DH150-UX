@@ -10,20 +10,8 @@ DH150: User Experience Design
 ## Personas 
 ### Magdalena 
 <img align="left" width="605" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png">
-<br/>
-Gender: Female <br/>
-Age: 18 <br/>
-Occupation: UCLA undergraduate student <br/>
-Education: Pursuing bachelor's in Computer Science <br/>
-Location: Los Angeles, CA, U.S.A. 
 
-Motivations and Needs: Magdalena is a stressed first-year college student trying to balance her personal and academic life. When she has a break from her coursework, she and her friends try and make the most of long weekends and school holidays by getting away. Magdalena and her friends like to explore new travel destinations and meeting new people on the budget of a college student. They are lenient and flexible with dates, flights, and accomodation options as their main priority is price. 
-
-Frustrations and Barriers: Magdalena has trouble narrowing price ranges to fit her group's budget. She has difficulty editing a search or changing certain preferences to bring the total cost down. 
-
-Environment: Magdalena and her friends usually search for trips on their mobile devices on their Internet browser or travel apps, sending each other screenshots or links to travel websites. They usually book their trips on their laptops. 
-
-*Empathy Map:*
+#####*Empathy Map:*
 
 Says: "It's really hard to find trips that fit my budget. I wish there was a more individualized travel-booking process that showed me what factors can lower the cost of my trip." <br/>
 
