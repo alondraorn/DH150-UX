@@ -15,7 +15,7 @@ DH150: User Experience Design
 <img align = "left" height="330"  alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png"> <img align="right" height="330" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png">
 
 ### Emma 
-<img align = "left" height="340" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png"> <img align="right" height="340" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216918-be32f680-4c5a-11ea-8a68-b164418adb18.png">
+<img align = "left" height="345" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png"> <img align="right" height="340" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216918-be32f680-4c5a-11ea-8a68-b164418adb18.png">
 
 ## Scenarios 
 
