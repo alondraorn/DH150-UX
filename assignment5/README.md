@@ -34,21 +34,8 @@ Does: Opens various tabs on his browser to compare flight prices as quickly as p
 
 Feels: Stressed and worried because he needs to book his flight as soon as possible
 
-Goals: Find conveinent, last-minute flight deals to San Francisco to spend time with his girlfriend 
-
 ### Emma 
-[PICTURE] <br/>
-Gender: Female <br/>
-Age: 25 <br/>
-Occupation: Freelance Graphic Designer <br/>
-Education: M.F.A. in graphic design <br/>
-Location: Seattle, Washington, U.S.A.
-
-Motivations and Needs: Emma works at home but finds herself traveling frequently throughout the U.S. for work to meet with her clients. She likes to book package deals that include both her flight and hotel stay. Emma prefers that her accomodation is in a safe, conveinent location near popular points of interest as she is usually not familiar with the areas she travels to. She relies heavily on guest ratings to help her decision-making process. 
-
-Frustrations and Barriers: Emma has a hard time finding package deals that include all of her travel preferences. She has difficulty comparing all of her options and making a final decision based on the available information on travel websites. Emma is also sometimes overwhelmed with the amount of information that is displayed on these websites and finds it complicates her booking process rather than helps. Due to this, Emma usually looks at travel website for an hour each day and then books after weighing her options. 
-
-Environment: Emma compares travel packages between multiple tabs on her Internet browser on her laptop. She prefers to use her laptop as she is constantly working on it throughout the day and does not like to keep scrolling on her mobile device. She occasionally  books in the evening at her home after she's finished her work for the day.  
+<img align = "left" width="607" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png">
 
 *Empathy Map*
 
@@ -59,8 +46,6 @@ Thinks: I hope this hotel is in a safe neighborhood; The guest reviews are mostl
 Does: Filters her search according to location and guest rating, continuously scrolls through hotels 
 
 Feels: Overwhelmed by the amount of accomodation options, confused and does not know how to sort through them in an efficient manner 
-
-Goals: Book package deals for business trips, with high-rated accomodations in good locations
 
 ## Scenarios 
 
