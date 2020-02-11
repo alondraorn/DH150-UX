@@ -11,22 +11,14 @@ DH150: User Experience Design
 ### Magdalena 
 <img align="left" width="605" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png">
 
-*Empathy Map:*
-
-Says: "It's really hard to find trips that fit my budget. I wish there was a more individualized travel-booking process that showed me what factors can lower the cost of my trip." <br/>
-
-Thinks: I wonder if flight prices are cheaper if I travel on the weekday?
-
-Does: Edits her current search by changing her dates of travel
-
-Feels: Tired and frustrated after completing numerous searches and not getting the results she wants
+[Magdalena Empathy Map](https://user-images.githubusercontent.com/59623155/74214655-1e259f00-4c53-11ea-8088-b832eed2f75c.png)
 
 ### Armani
 <img align = "left" width="609" alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png">
 
 *Empathy Map*
 
-Says: "I wish there was a shorter flight booking process when I'm pressed for time."
+Says: "I wish there was a shorter flight booking process when I'm pressed for time.
 
 Thinks: I'll have to wait until I get home to actually book my flight; My phone screen is too small to adequately view all flight options; I've been scrolling forever
 
