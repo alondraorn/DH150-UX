@@ -21,7 +21,7 @@ DH150: User Experience Design
 
 ### Scenario 1
 
-<img align="right" width ="450" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
+<img align="right" width ="425" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
 
 Magdalena, an undergraduate college student, is excited to go on a trip with her friends for spring break to celebrate the end of finals. She is looking to book a bundle trip to Cabo, Mexico for 5 people for $300-$400 per person. Magdalena is constantly stressed and overwhelmed with work for her packed course schedule. She and her friends look up deals on their mobile devices and laptops during their study breaks and send screenshots and links to track possible options in their groupchat. Magdalena and her friends are looking for a cost-efficient, all-inclusive deal that fits their budget. They are open and flexible with flights and accomodations. 
 
