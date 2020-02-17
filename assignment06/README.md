@@ -31,6 +31,18 @@ The low-fidelity prototype supports the following tasks:
 *Features Description:* The price tool feature takes the user's input from their **travel budget**. If the user clicks on the **Price Tool** button, they will be directed to a new page where they have the option to change their search field to view more cost-efficient price options. For example, changing their departure airport to BUR from LAX. Cheaper flights will help lower the overall cost per person. The minimized flight booking process is reflected in combined flight view. A user is able to select their inbound and outbound flight on the same screen, minimzing scrolling time and directing the user straight to booking. Flights are displayed by **Recommended** as default. The most important flight details are displayed, such as time, airline, flight duration, and price. If the user would like to see more flight details on the airline's website, they can click "See More". The recommendation tool feature is reflected in the hotel search results, displaying the highest recommended hotels on the top of the page. When viewing hotel reviews, the main points of the hotel's average rating are displayed at the top of the screen, such as **Cleanliness, Service, Comfort, Condition, and Location**. If the user clicks **Sort**, they have the option to customize the reviews based on the time of year, traveler type, and keyword in addition to rating and date. 
 
 ## Prototype Testing 
+###Iteration #1
+*Confusions and/or unexpected interactions:* 
+
+###Iteraction #2
+*Confusions and/or unexpected interactions:*
 
 ## Reflection 
 A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype. did not signify whether they are separate prices. + OR addition. forgot to draw out flow of see more. reset option on all search features. 
+0: No summary or reflection 
++1: Summary of the process, what went smoothly or differently from your expectation
+
++1: What you would change or design differently based on the feedback you got from the prototype testing. 
+
+For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+
