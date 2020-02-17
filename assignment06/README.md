@@ -34,7 +34,7 @@ The low-fidelity prototype supports the following tasks:
 
 [picture before testing]
 
-###Iteration #1
+### Iteration #1
 
 [picture]
 
@@ -43,16 +43,20 @@ The user suprisingly overlooked the dropdown menu frame when mentally going thro
 
 The user was confused about the frame where you can further sort through reviews. Because they did not need to sort further through reviews, there was no need to utilize the tool and feature. When asked what they thought the objective of the process was, they correctly assumed that the feature would help narrow down previous reviews of the hotel. In order to properly test these features, I asked the user to complete the iteration of the wireflow again with the intention of utilizing these features given what they are *supposed to do*. 
 
-###Iteration #2
+### Iteration #2
 
 [picture]
 
 *Confusions and/or unexpected interactions:* 
 The user again did not follow the flow to the dropdown menu when inputting the departure and arrival airport. The user was correctly able to navigate the price tool to the page and intepreted that if they changed their departure airport from LAX to BUR, they could lower the price of their trip. Despite this understanding, the user decided to ignore the suggestion and go back to the original results. 
 
-When following the recommendation tool, the user was hesistant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the corret intepreation. Additionally, after pressing **Done**, the user expected to return to the hotel results. It instead wanted to see all reating. asked if she pick just 4/5 then would she see all the results, confused, after they select how they want to sort through the hotels, return to the hotels (my mistake). 
+When following the recommendation tool, the user was hesistant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the corret intepreation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow.  
 
 ## Reflection 
+I believe the prototype testing went relatively smoothly; the user was successfully able to utilize all intended features despite a few minor setbacks. I was surprised that the layout and organization of my wireframes was intuitive enough for a first-time user. I believe how often a user travels and uses such websites and/or apps does have a little influence in how well they can understand specific terms, such as inbound and outbound. My user travels a couple times a year, both domestically and internationally, and readily uses Expedia as her main travel booking site. I decided to follow Expedia's layout and aesthetics when creating my wireframes.
+
+The tester was confused that the review sort and filter returned to the hotel page when she pressed **Done**. I plan to correct my error and direct the flow back to the list of sorted reviews. The tester was hesistant and unsure whether they had to select a specific rating to sort through the results. I believe this can be solve through design and color when creating my digital prototype. I plan to make these options checkable through checkboxes which are optional in most design aesthetics. 
+
 A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype. did not signify whether they are separate prices. + OR addition. forgot to draw out flow of see more. reset option on all search features. correctly able to. refresh 
 0: No summary or reflection 
 +1: Summary of the process, what went smoothly or differently from your expectation
