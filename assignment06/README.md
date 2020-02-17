@@ -31,14 +31,29 @@ The low-fidelity prototype supports the following tasks:
 *Features Description:* The price tool feature takes the user's input from their **travel budget**. If the user clicks on the **Price Tool** button, they will be directed to a new page where they have the option to change their search field to view more cost-efficient price options. For example, changing their departure airport to BUR from LAX. Cheaper flights will help lower the overall cost per person. The minimized flight booking process is reflected in combined flight view. A user is able to select their inbound and outbound flight on the same screen, minimzing scrolling time and directing the user straight to booking. Flights are displayed by **Recommended** as default. The most important flight details are displayed, such as time, airline, flight duration, and price. If the user would like to see more flight details on the airline's website, they can click "See More". The recommendation tool feature is reflected in the hotel search results, displaying the highest recommended hotels on the top of the page. When viewing hotel reviews, the main points of the hotel's average rating are displayed at the top of the screen, such as **Cleanliness, Service, Comfort, Condition, and Location**. If the user clicks **Sort**, they have the option to customize the reviews based on the time of year, traveler type, and keyword in addition to rating and date. 
 
 ## Prototype Testing 
-###Iteration #1
-*Confusions and/or unexpected interactions:* 
 
-###Iteraction #2
-*Confusions and/or unexpected interactions:*
+[picture before testing]
+
+###Iteration #1
+
+[picture]
+
+*Confusions and/or unexpected interactions:* 
+The user suprisingly overlooked the dropdown menu frame when mentally going through the search input for flight departure and arrival airport. This makes sense due to the nature of the paper prototype where the airport is already inputted. The user was aware of the city and airport code. This would be interesting to see how helpful the dropdown menu would be for a user who is unaware of their travel destination and surrounding airports. More specifically, which airport do they need to fly into if necessary.
+
+The user was confused about the frame where you can further sort through reviews. Because they did not need to sort further through reviews, there was no need to utilize the tool and feature. When asked what they thought the objective of the process was, they correctly assumed that the feature would help narrow down previous reviews of the hotel. In order to properly test these features, I asked the user to complete the iteration of the wireflow again with the intention of utilizing these features given what they are *supposed to do*. 
+
+###Iteration #2
+
+[picture]
+
+*Confusions and/or unexpected interactions:* 
+The user again did not follow the flow to the dropdown menu when inputting the departure and arrival airport. The user was correctly able to navigate the price tool to the page and intepreted that if they changed their departure airport from LAX to BUR, they could lower the price of their trip. Despite this understanding, the user decided to ignore the suggestion and go back to the original results. 
+
+When following the recommendation tool, the user was hesistant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the corret intepreation. Additionally, after pressing **Done**, the user expected to return to the hotel results. It instead wanted to see all reating. asked if she pick just 4/5 then would she see all the results, confused, after they select how they want to sort through the hotels, return to the hotels (my mistake). 
 
 ## Reflection 
-A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype. did not signify whether they are separate prices. + OR addition. forgot to draw out flow of see more. reset option on all search features. 
+A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype. did not signify whether they are separate prices. + OR addition. forgot to draw out flow of see more. reset option on all search features. correctly able to. refresh 
 0: No summary or reflection 
 +1: Summary of the process, what went smoothly or differently from your expectation
 
