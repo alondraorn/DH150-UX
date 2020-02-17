@@ -23,11 +23,8 @@ The low-fidelity prototype supports the following tasks:
 4. Select a hotel
 5. Pay for and book the trip 
 
-## Wireframes
-[ADD PICTURE]
-
-## Wireflow
-[ADD PICTURE]
+## Wireframes and Wireflow
+![Wireflow Stage 1](https://user-images.githubusercontent.com/59623155/74673232-b0520980-5163-11ea-8b9e-a3696b4758b9.jpg)
 
 ## Prototype Testing 
 
