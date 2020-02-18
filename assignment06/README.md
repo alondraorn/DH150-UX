@@ -32,12 +32,13 @@ The low-fidelity prototype supports the following tasks:
 
 ## Prototype Testing 
 
-| ------------- | ------------- |
-| ![Wireflow S1 P1](https://user-images.githubusercontent.com/59623155/74702540-29327f00-51bf-11ea-97c7-07e66789cc32.jpg) | ![Wireflow S1 P2](https://user-images.githubusercontent.com/59623155/74702685-8e867000-51bf-11ea-84c7-2f76a3ae774e.jpg) |
+![Wireflow S1 P1](https://user-images.githubusercontent.com/59623155/74702540-29327f00-51bf-11ea-97c7-07e66789cc32.jpg)
+![Wireflow S1 P2](https://user-images.githubusercontent.com/59623155/74702685-8e867000-51bf-11ea-84c7-2f76a3ae774e.jpg)
 
 ### Iteration #1
 
-[picture]
+![Wireflow S2 P1](https://user-images.githubusercontent.com/59623155/74702985-a4e0fb80-51c0-11ea-9c99-d1fab76efa22.jpg)
+![Wireflow S2 P2](https://user-images.githubusercontent.com/59623155/74702992-a9a5af80-51c0-11ea-82de-e6b52c140240.jpg)
 
 *Confusions and/or unexpected interactions:* 
 The user suprisingly overlooked the dropdown menu frame when mentally going through the search input for flight departure and arrival airport. This makes sense due to the nature of the paper prototype where the airport is already inputted. The user was aware of the city and airport code. This would be interesting to see how helpful the dropdown menu would be for a user who is unaware of their travel destination and surrounding airports. More specifically, which airport do they need to fly into if necessary.
@@ -46,7 +47,8 @@ The user was confused about the frame where you can further sort through reviews
 
 ### Iteration #2
 
-[picture]
+![Wireflow S3 P1](https://user-images.githubusercontent.com/59623155/74703005-b88c6200-51c0-11ea-99d6-485576559db6.jpg)
+![Wireflow S3 P2](https://user-images.githubusercontent.com/59623155/74703008-baeebc00-51c0-11ea-96e8-d882540370ef.jpg)
 
 *Confusions and/or unexpected interactions:* 
 The user again did not follow the flow to the dropdown menu when inputting the departure and arrival airport. The user was correctly able to navigate the price tool to the page and intepreted that if they changed their departure airport from LAX to BUR, they could lower the price of their trip. Despite this understanding, the user decided to ignore the suggestion and go back to the original results. 
