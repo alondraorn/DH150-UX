@@ -1,23 +1,24 @@
-*Assignment 08: Interactive Prototype
+#Assignment 08: Interactive Prototype
 
 Priyana Patel
 DH150: User Experience Design 
 
-**Project Description
+##Project Description
 Summary:
 Process:
 Purpose:
 Tasks:
 Brief summary of the project, the process and the purpose of this high-fidelity prototype; the tasks the prototype demonstrates.
 
-**Graphic Interface 
+##Graphic Interface 
 Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme).
 
-**Wireflow
+##Wireflow
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D62%253A201" allowfullscreen></iframe>
 
-**Prototype
+##Prototype
 
-**Feedback
+##Feedback
 *In-class cognitive walkthrough*
 The main feedback I received was on my "progress bar"; it was unclear what "step 1, step 2, etc." referred to. I was advised by my peers to either replace it with a visual progress bar that fills up with the completion of each step or replace the text with flight and hotel icons.
 
