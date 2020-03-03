@@ -17,7 +17,7 @@ User Persona | Empathy map
 ### <br/> Armani
 User Persona | Empathy map
 ------------ | ------------
-![Armani User Persona](https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png) |![Armani Empathy Map](https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png)
+<img align = "left" height="345" alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png"> | <img align="right" height="345" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png">
 
 ### Emma 
 User Persona | Empathy map
