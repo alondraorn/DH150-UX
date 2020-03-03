@@ -4,13 +4,17 @@ Priyana Patel <br/>
 DH150: User Experience Design 
 
 ## Project Description
-*Summary:* The following interactive prototype is designed to solve and illustrate three features to ease travel-planning. The three features include a price tool that clearly points out how to adjust your search to find options within your price range, a minimized flight booking process which allows you to select both inbound and outbound flights on the same page, without unecessary text and details, and a recommendation tool which allows you to sort through hotel reviews by each user, personalizing the selection process while eliminating the feeling of being overwhelmed. 
+*Summary* 
+The following interactive prototype is designed to solve and illustrate three features to ease travel-planning. The three features include a price tool that clearly points out how to adjust your search to find options within your price range, a minimized flight booking process which allows you to select both inbound and outbound flights on the same page, without unecessary text and details, and a recommendation tool which allows you to sort through hotel reviews by each user, personalizing the selection process while eliminating the feeling of being overwhelmed. 
 
-*Process:* The prototype was created using Figma, a browser based UI and UX application for prototyping and code-generating. I have utilized Figma for past projects for creating wireframes for mobile applications and websites. I first started by digitizing my paper wireframes while implementing graphic and interactive components. I ensured that the color scheme fits with the intention of the project: to book cost-efficient trips to various travel destinations, book last-minute flights to see loved ones, and book bundle deals for work-related purposes with high-rated accomodations in good locations. 
+*Process* 
+The prototype was created using Figma, a browser based UI and UX application for prototyping and code-generating. I have utilized Figma for past projects for creating wireframes for mobile applications and websites. I first started by digitizing my paper wireframes while implementing graphic and interactive components. I ensured that the color scheme fits with the intention of the project: to book cost-efficient trips to various travel destinations, book last-minute flights to see loved ones, and book bundle deals for work-related purposes with high-rated accomodations in good locations. 
 
-*Purpose:* The purpose of this interactive prototype is to visualize the information for the proposed tasks and features, validate the interaction flow for the user, and explore what influences a user's choices. All in all, it is to evaluate rather than explore the system's design. 
+*Purpose* 
+The purpose of this interactive prototype is to visualize the information for the proposed tasks and features, validate the interaction flow for the user, and explore what influences a user's choices. All in all, it is to evaluate rather than explore the system's design. 
 
-*Tasks:* The following prototype illustrates the flow for a *bundle deal* even though Expedia and other travel apps offer option to book flights and hotels seperately. First, a user will input their departure and arrival city or airport. The user will then input their travel dates through a click and drag on the selected calendar dates. They can then adjust the number of travelers using the add and subtract buttons. By default, the travel budget slider is set from $0 to $1,000,000 which the user can adjust based on their budget preferences. 
+*Tasks* 
+The following prototype illustrates the flow for a *bundle deal* even though Expedia and other travel apps offer option to book flights and hotels seperately. First, a user will input their departure and arrival city or airport. The user will then input their travel dates through a click and drag on the selected calendar dates. They can then adjust the number of travelers using the add and subtract buttons. By default, the travel budget slider is set from $0 to $1,000,000 which the user can adjust based on their budget preferences. 
 
 After tapping on the search button, the user will arrive at the hotel search results screen. They can scroll horizontally to view the previews for relevant hotels which are also positioned on a map with their price point per person. If the user taps on the price tool button, they will be directed to a new page where an option to change their search query will appear. They can either ignore or accept this suggestion, and then return to the search results. The user also has the option to sort and filter their hotel results by name, star rating, and amenities. 
 
@@ -18,13 +22,11 @@ After tapping on a hotel, more information about the accomodation will be displa
 
 Once a user selects a room, they are directed to flight results for both outbound and inbound flights. They can scroll horizontally to view the flight options. If they click on the filter button, the user can view flights based on price, duration, stops, departure and arrival time, and airline. Once a user selects both flights and the done button, they will be directed to a summary page where they have the option to edit their hotel or flight selection. After reviewing their details and clicking on the checkout button, the user will be asked to input traveler and payment information, and whether or not they would like to purchase travel insurance. After tapping complete booking, the user has completed the interaction flow. 
 
-
 ## Graphic Interface 
 As this design closely follow Expedia's mobile app with the implementation of three new features, I decided to adopt the travel agency's clear, structural layout and great use of icons. Expedia's logo colors are Dark Midnight Blue (#00355F) and Deep Lemon (#EEC218). I used color.adobe.com to explore complementary, analagous, and monochromatic variations of Midgnight Blue. I also explored color palettes related to keywords such as "travel","explore" and "adventure". Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme). The final interactice prototype implements a monochromatic color palette of Midnight Blue with White. 
 
 ## Wireflow
-Version #1 <br/>
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D62%253A201" allowfullscreen></iframe>
+[Version #1](https://www.figma.com/file/48R2AtHbd0nNF1CZOgbO79/Excursion?version-id=258610790&node-id=0%3A1)
 
 Version #2 (Based on In-Class Cognitive Walkthrough) <br/>
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
