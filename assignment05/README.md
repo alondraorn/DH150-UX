@@ -28,11 +28,13 @@ User Persona | Empathy map
 
 ### Scenario 1
 
-Scenario | User Journey Map With Solution
------------- | ------------
+<img align="right" width ="390" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
+
 Magdalena, an undergraduate college student, is excited to go on a trip with her friends for spring break to celebrate the end of finals. She is looking to book a bundle trip to Cabo, Mexico for 5 people for $300-$400 per person. Magdalena is constantly stressed and overwhelmed with work for her packed course schedule. She and her friends look up deals on their mobile devices and laptops during their study breaks and send screenshots and links to track possible options in their groupchat. Magdalena and her friends are looking for a cost-efficient, all-inclusive deal that fits their budget. They are open and flexible with flights and accomodations. 
 
-Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat. | <img align="right" width ="390" alt="Magdalena User Journey Map" src="https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png">
+Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat.
+
+<div align="right"> User Journey Map With Solution </div>
 
 ### Scenario 2
 
@@ -41,8 +43,6 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 Armani, a healthcare consultant in New York City, frequently books last-minute flights to visit his girlfriend in San Francisco once a month. On Monday, he learns that that his afternoon meeting scheduled for Friday is cancelled. Based on this lastminute news, he decides that he wants to travel to San Francisco Friday evening and return to New York City Sunday evening. Armani has time to search for flights on his mobile device during his commute to work and his lunch break, and on his laptop when he returns to his apartment in the evening. Armani wants to book his trip as soon as possible so it would be ideal if he can book on his mobile device to secure the best last-minute deal. 
 
 Use Case: Armani opens his travel app on his mobile phone while riding the subway to work. He searches for a flight from JFK to SFO from Friday to Sunday for one person. He sorts and filters by evening flights, from lowest to highest price. Armani feels stressed, worried, and a little unsure whether he is looking at all of his flight options for the cheapest flights. He wants to make sure he is checking all airlines and travel sites. He continues to scroll through flights on his phone and feels that it would be easier to look at flights on a bigger screen. Armani does not have enough time to finish his booking process before getting off at his stop. Frustrated, Armani closes the app and resolves to checking again during his lunch break. 
-
-<div align="right"> User Journey Map With Solution </div>
 
 ### Scenario 3
 
