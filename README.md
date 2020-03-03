@@ -1,17 +1,19 @@
-# Project title
+# Excursion
 ## DH150 User Experience Design, Priyana Patel 
 
-## What is the ...?/About the Project 
-What is the project about? The motivation of the project and possible contribution. 2- 5 sentences 
+## About the Project 
+The current project seeks to solve user difficulties associated with travel planning. The target community is a community of travelers that seek adventure, travel to new places, spend time with friends and family, and never feel settled in one place. These users are a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore. 
 
 ## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? 
+arget users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
 ## Competitor analysis [assignment01 & 02]:
-"leading service in aesthetic community" 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-![](url of image)
-![Southwest](url of image) 
+There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...]( 
+Expedia | Southwest
+--------|--------
+![expedia homepage](https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png)|
+![southwest](https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png) 
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
