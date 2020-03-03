@@ -44,16 +44,16 @@ Regarding the flight filter page, my peers said that it would be helpful to clar
 
 *Peer Review* <br/>
 Samantha Chiu, March 2nd, 2020 <br/>
-First Impression: "LOVE THE COLORS AND INTERFACE - very clear and easy to read"
-"Very big buttons and clear about what they do"
-"Was not able to move the travel budget scroller but wasn’t sure if that was part of your features"
-"Price tool was clear and easy to use and understand"
-"Maybe enlarge “Back to search results” so it is a little easier to see?"
-"LOVE the scrolling on top of the screen - very convenient" 
-"Reviews were easy to navigate" 
-"Filter is clear and love that when I click on the button it will shade to show that I have selected it"
-"Love that there is an edit in checkout so I can go back whenever I want to"
-"Does the arrow on the progress bar do anything?"
-"The dates say SAT, March 21st to SAT, March 28th but the calendar only lets me select up until the 27th"
+First Impression: "LOVE THE COLORS AND INTERFACE - very clear and easy to read" <br/>
+"Very big buttons and clear about what they do" <br/>
+"Was not able to move the travel budget scroller but wasn’t sure if that was part of your features" <br/>
+"Price tool was clear and easy to use and understand" <br/>
+"Maybe enlarge “Back to search results” so it is a little easier to see?" <br/>
+"LOVE the scrolling on top of the screen - very convenient" <br/>
+"Reviews were easy to navigate" <br/>
+"Filter is clear and love that when I click on the button it will shade to show that I have selected it" <br/>
+"Love that there is an edit in checkout so I can go back whenever I want to" <br/>
+"Does the arrow on the progress bar do anything?" <br/>
+"The dates say SAT, March 21st to SAT, March 28th but the calendar only lets me select up until the 27th" <br/>
 
 Screen recording [here](https://drive.google.com/file/d/1cjQx0ACVSmYCVSgqm8ZqwF_bwtyVAB_j/view?usp=sharing)
