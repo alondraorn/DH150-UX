@@ -11,7 +11,7 @@ DH150: User Experience Design
 ### Magdalena 
 User Persona | Empathy map
 ------------ | ------------
-![magdalena user persona](https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)|![Magdalena Empathy Map](https://user-images.githubusercontent.com/59623155/75808384-d9fe5980-5d3b-11ea-85df-e12d8524c4c6.png)
+<img align = "left" height="345" alt="Magdalena User Persona" src="https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png">|<img align="right" height="345" alt="Magdalena Empathy Map" src="https://user-images.githubusercontent.com/59623155/75808384-d9fe5980-5d3b-11ea-85df-e12d8524c4c6.png">
 
 
 ### <br/> Armani
