@@ -9,15 +9,19 @@ DH150: User Experience Design
 
 ## Personas 
 ### Magdalena 
-user persona | empathy map
------------- | -------------
+User Persona | Empathy map
+------------ | ------------
 ![magdalena user persona](https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)|![Magdalena Empathy Map](https://user-images.githubusercontent.com/59623155/75808384-d9fe5980-5d3b-11ea-85df-e12d8524c4c6.png)
 
 
 ### <br/> Armani
-<img align = "left" height="330"  alt="Armani User Persona" src="https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png"> | <img align="right" height="330" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png">
+User Persona | Empathy map
+------------ | ------------
+![Armani User Persona](https://user-images.githubusercontent.com/59623155/74207909-45ba3e80-4c36-11ea-882d-4b8c7da536be.png) |![Armani Empathy Map](https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png)
 
 ### Emma 
+User Persona | Empathy map
+------------ | ------------
 <img align = "left" height="345" alt="Emma User Persona" src="https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png"> | <img align="right" height="345" alt="Armani Empathy Map" src="https://user-images.githubusercontent.com/59623155/74216918-be32f680-4c5a-11ea-8a68-b164418adb18.png">
 
 ## Scenarios 
