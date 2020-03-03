@@ -44,6 +44,8 @@ Armani, a healthcare consultant in New York City, frequently books last-minute f
 
 Use Case: Armani opens his travel app on his mobile phone while riding the subway to work. He searches for a flight from JFK to SFO from Friday to Sunday for one person. He sorts and filters by evening flights, from lowest to highest price. Armani feels stressed, worried, and a little unsure whether he is looking at all of his flight options for the cheapest flights. He wants to make sure he is checking all airlines and travel sites. He continues to scroll through flights on his phone and feels that it would be easier to look at flights on a bigger screen. Armani does not have enough time to finish his booking process before getting off at his stop. Frustrated, Armani closes the app and resolves to checking again during his lunch break. 
 
+<div align="right"> User Journey Map With Solution </div>
+
 ### Scenario 3
 
 <img align="right" width="390" alt="Emma User Journey Map" src="https://user-images.githubusercontent.com/59623155/74219474-cb071880-4c61-11ea-98b1-8cffef07d7c7.png">
