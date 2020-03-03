@@ -1,6 +1,6 @@
 # Assignment 08: Interactive Prototype
 
-Priyana Patel
+Priyana Patel <br/>
 DH150: User Experience Design 
 
 ## Project Description
