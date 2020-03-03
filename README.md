@@ -4,11 +4,11 @@
 ## About the Project 
 The current project seeks to solve user difficulties associated with travel planning. The target community is a community of travelers that seek adventure, travel to new places, spend time with friends and family, and never feel settled in one place. These users are a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore. 
 
-## Clear design statement: 
+## Design Statement: 
 How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? 
 arget users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
-## Competitor analysis [assignment01 & 02]:
+## Competitor Analysis:
 There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...](https://priyanapatel57.github.io/DH150-UX/assignment01/)
 
 Expedia | Southwest
