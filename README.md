@@ -13,7 +13,7 @@ There are many travel booking apps and available for users however the leading s
 
 Expedia | Southwest
 --------|--------
-<img align = "left" width ="350" alt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png>" | img align = "right" <width="350" alt="Southwest" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png">
+<img align = "left" width ="350" alt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png"> | <img align = "right" width="350" alt="Southwest" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png">
 
 
 ## User research [contextual inquiry, assignment04]:
