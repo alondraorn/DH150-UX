@@ -9,7 +9,8 @@ How can mobile technology enhance the decision-making challenges of travel booki
 arget users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
 ## Competitor analysis [assignment01 & 02]:
-There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...]( 
+There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...]( )
+
 Expedia | Southwest
 --------|--------
 ![expedia homepage](https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png)|
