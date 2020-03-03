@@ -44,6 +44,7 @@ Regarding the flight filter page, my peers said that it would be helpful to clar
 
 *Peer Review* <br/>
 Samantha Chiu, March 2nd, 2020 <br/>
+
 First Impression: "LOVE THE COLORS AND INTERFACE - very clear and easy to read" <br/>
 "Very big buttons and clear about what they do" <br/>
 "Was not able to move the travel budget scroller but wasn’t sure if that was part of your features" <br/>
