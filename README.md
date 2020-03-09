@@ -16,17 +16,17 @@ Expedia | Southwest
 <img align = "left" heightalt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png">
 > | <img align = "right" alt="Southwest" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png">
 
-## User research [contextual inquiry, assignment04]:
+## User Research 
 The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends.The current solution to book travel plans is to meet in person with a travel agent or book directly with the airline and hotel, via their phone line or website.The limitations that can possibly be improved with digital technology are the visualization of options, individualized to the user's preferences, such as price points, travel times, and relative locations. Additionally, technology can help narrow search choices based on these preferences to help the user book a trip more efficiently.
 
 I conducted a user interview for a target user, asking them to complete several tasks on their mobile device to search for travel-related information. The interview process directs the user to search for the average price of hotel in Los Angeles and a last minute flight to San Francisco. Read more about my user research and contextual inquiry [here](https://priyanapatel57.github.io/DH150-UX/assignment04/)
 
-## UX storytelling 
-Based on my user research, I created three user personas.
+## UX Storytelling 
+Based on my user research, I created three user personas and empathy maps. 
 
 |Magdalena|Armani|Emma|
-|:---:|:---:|:---:|
-|![magdalena user persona] (https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)| ![armani user persona] (https://user-images.githubusercontent.com/59623155/76180211-97dd7980-617a-11ea-8a5f-b1b7b0d1fc28.png)| ![emma user persona] (https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png)
+|:-----:|:-----:|:-----:|
+|![magdalena user persona](https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)|![armani user persona](https://user-images.githubusercontent.com/59623155/76180211-97dd7980-617a-11ea-8a5f-b1b7b0d1fc28.png)|![emma user persona](https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
