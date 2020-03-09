@@ -20,6 +20,7 @@ Usability testing measures, at the minimum, the effectiveness, efficiency, and s
 
 Overall, the participant found the Expedia app easy to use and was able to fully complete two out of the three tasks without difficulty and time constraints. The participant found the Expedia app to be calm, familiar, and trustworthy. The test identified minor problems, such as confusing flow between selecting hotels and flights, unclear directions on how to navigate back and forth and editing search fields, and narrowing search results by price ranges.
 
+|Usability Testing Form|Screen Recording|
 |-----|-----|
 |![usability testing form](https://user-images.githubusercontent.com/59623155/76184869-c7947d80-618a-11ea-9cb1-6b76a91af2e7.png)|![screen recording](https://user-images.githubusercontent.com/59623155/76187752-6d4bea80-6193-11ea-89f9-910eec249b30.png)|
 
