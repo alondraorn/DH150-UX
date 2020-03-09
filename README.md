@@ -95,6 +95,8 @@ I conducted an accessibility audit of Expedia's site to evaluate how well it adh
 Additionally, I evaluted the accessibility of my color scheme. View the results [here](https://github.com/priyanapatel57/DH150-UX/blob/master/assignment07/Audit_color_priyana.png)
 
 ## Pitch video
+My name is Priyana Patel and my project is a take on a commonly used travel booking app: Expedia. The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends. There is a clear distinction between travel booking websites and mobile applications. How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
+
 
 ## Conclusion
 what you learned throughout the process
