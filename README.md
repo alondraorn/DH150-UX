@@ -78,8 +78,13 @@ The prototype was created using Figma, a browser based UI and UX application for
 Test out the prototype for yourself:
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D1%253A9%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-## Optional evaluation and revision history 
+## Evaluation and Revisions
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+### Cognitive Walkthrough
+I conducted a cognitive walthrough with my course peers of the first version of my wirefloew:
+
+The main feedback I received was on my ***“progress bar”***; it was unclear what “step 1, step 2, etc.” referred to. I was advised by my peers to either __replace it with a visual progress bar__ that fills up with the completion of each step or __replace the text with flight and hotel icons__. My peers additionally said it would be helpful to rename my ***“price tool”** feature. It was unclear that clicking the button navigated to the corresponding page titled “Edit to Find More Options”. The user actions and the intended feature are not consistent with each other. One user actually thought that the frame where you can use a slider to change the travel budget was the intended flow and next page. My peers told me to __include the travel budget field on the same page as the search query__, providing a default option of the cheapest and most expensive options as the price range. Regarding the flight filter page, my peers said that it would be helpful to __clarify “morning, afternoon, evening”__ because it is unclear what a midnight flight would fall under. All in all, the terms I used were vague and broad, therefore, I decided to add another section called __Early Morning__. Lastly, they said that it was __confusing and overwhelming to include both the departure and arrival flight search results on the same page__. While this is an issue I tried to overcome, I decided to organize page through two carousels as opposed to two vertical scrolling sections.
 
 ## Pitch video
 
