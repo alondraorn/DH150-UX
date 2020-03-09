@@ -21,8 +21,10 @@ Usability testing measures, at the minimum, the effectiveness, efficiency, and s
 Overall, the participant found the Expedia app easy to use and was able to fully complete two out of the three tasks without difficulty and time constraints. The participant found the Expedia app to be calm, familiar, and trustworthy. The test identified minor problems, such as confusing flow between selecting hotels and flights, unclear directions on how to navigate back and forth and editing search fields, and narrowing search results by price ranges.
 
 |-----|-----|
-|[usability testing form](https://user-images.githubusercontent.com/59623155/76184869-c7947d80-618a-11ea-9cb1-6b76a91af2e7.png)|
+|[usability testing form](https://user-images.githubusercontent.com/59623155/76184869-c7947d80-618a-11ea-9cb1-6b76a91af2e7.png)|[screen recording](https://user-images.githubusercontent.com/59623155/76187752-6d4bea80-6193-11ea-89f9-910eec249b30.png)
 
+
+View the screen recording pilot test video [here](https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing) 
 
 ## User Research 
 The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends.The current solution to book travel plans is to meet in person with a travel agent or book directly with the airline and hotel, via their phone line or website.The limitations that can possibly be improved with digital technology are the visualization of options, individualized to the user's preferences, such as price points, travel times, and relative locations. Additionally, technology can help narrow search choices based on these preferences to help the user book a trip more efficiently.
@@ -85,6 +87,9 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 I conducted a cognitive walthrough with my course peers of the first version of my wirefloew:
 
 The main feedback I received was on my ***“progress bar”***; it was unclear what “step 1, step 2, etc.” referred to. I was advised by my peers to either __replace it with a visual progress bar__ that fills up with the completion of each step or __replace the text with flight and hotel icons__. My peers additionally said it would be helpful to rename my ***“price tool”** feature. It was unclear that clicking the button navigated to the corresponding page titled “Edit to Find More Options”. The user actions and the intended feature are not consistent with each other. One user actually thought that the frame where you can use a slider to change the travel budget was the intended flow and next page. My peers told me to __include the travel budget field on the same page as the search query__, providing a default option of the cheapest and most expensive options as the price range. Regarding the flight filter page, my peers said that it would be helpful to __clarify “morning, afternoon, evening”__ because it is unclear what a midnight flight would fall under. All in all, the terms I used were vague and broad, therefore, I decided to add another section called __Early Morning__. Lastly, they said that it was __confusing and overwhelming to include both the departure and arrival flight search results on the same page__. While this is an issue I tried to overcome, I decided to organize page through two carousels as opposed to two vertical scrolling sections.
+
+### Accessibility Audit
+I conducted an accessibility audit of Expedia's site to {}. View the accessibility test results [here](https://github.com/priyanapatel57/DH150-UX/blob/master/assignment07/Audit_expedia_priyana.png)
 
 ## Pitch video
 
