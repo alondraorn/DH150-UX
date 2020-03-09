@@ -1,6 +1,5 @@
 # Excursion: Expedia Redesign 
-## DH150 User Experience Design
-## Priyana Patel 
+## DH150 User Experience Design, Priyana Patel 
 
 ## About the Project 
 The current project seeks to solve user difficulties associated with travel planning. The target community is a community of travelers that seek adventure, travel to new places, spend time with friends and family, and never feel settled in one place. These users are a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore. 
