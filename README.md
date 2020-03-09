@@ -9,12 +9,21 @@ The current project seeks to solve user difficulties associated with travel plan
 How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? 
 Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
-## Competitor Analysis
+## Competitor Analysis: Heuristic Evaluation
 There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...](https://priyanapatel57.github.io/DH150-UX/assignment01/)
 
 |Expedia | Southwest|
 |--------|--------|
 |![expedia homepage](https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png)|![southwest homepage](https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png)|
+
+## Competitor Analysis: Usability Testing 
+Usability testing measures, at the minimum, the effectiveness, efficiency, and satisfaction of a user experience. This process helps us understand how usable a product is. Based on the findings from the heuristic evaluation of the Expedia app, the top three main issues are overcrowding of text on the page (aesthetic and minimalistic design), too much scrolling (user freedom and control), and confusion with fine print details (help and documentation). These issues arise when a user is completing the booking process for a flight or bundle search. To test these issues, we will ask the user to complete a roundtrip flight and hotel bundle deal from Los Angeles to London. The test will be separated into three tasks of a bundle booking process: flight, hotel, and review/changes.
+
+Overall, the participant found the Expedia app easy to use and was able to fully complete two out of the three tasks without difficulty and time constraints. The participant found the Expedia app to be calm, familiar, and trustworthy. The test identified minor problems, such as confusing flow between selecting hotels and flights, unclear directions on how to navigate back and forth and editing search fields, and narrowing search results by price ranges.
+
+|-----|-----|
+|[usability testing form](https://user-images.githubusercontent.com/59623155/76184869-c7947d80-618a-11ea-9cb1-6b76a91af2e7.png)|
+
 
 ## User Research 
 The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends.The current solution to book travel plans is to meet in person with a travel agent or book directly with the airline and hotel, via their phone line or website.The limitations that can possibly be improved with digital technology are the visualization of options, individualized to the user's preferences, such as price points, travel times, and relative locations. Additionally, technology can help narrow search choices based on these preferences to help the user book a trip more efficiently.
@@ -45,27 +54,35 @@ I decided to explore Expedia's user interface and logo colors, Dark Midnight Blu
 
 See how I explored different web color schemes [here](https://priyanapatel57.github.io/DH150-UX/assignment07/)
 
-I created wireframes to support the following tasks: input search field, select an inbound flight, select an outbound flight, select a hotel, pay for and book the trip. The purpose of this low-fidelity prototype is to test the functionality and flow of these features integrated with the current process of booking a trip on a mobile travel app.
+I created wireframes to support the following tasks: input search field, select an inbound flight, select an outbound flight, select a hotel, pay for and book the trip. The flow intends for the user to search for their bundle trip based on their departure and arrival city or airport, dates of travel, number of travelers, and travel budget (optional). Based on the hotel results, a user can sort or filter the list by hotel name, star rating, and amenities. After clicking on a hotel, a user can view and sort ratings based on their search query and trip purpose. After selecting the room, a user will select an inbound and outbound flight to and from their travel destination. Again, based on their search results, a user has the option to sort or filter flights by duration, stops, time, and airline. After selecting both flights, the user will be directed to a trip summary of their hotel and flight selections. The user has the option to change their selections. If they are satisfied with their selections, the user can proceed to pay for their flight. They will input their passenger and payment details and have the option to insure their trip. Clicking on "Complete Booking" signifies the completion of the travel booking process.
 
 ![Wireflow S1 P1](https://user-images.githubusercontent.com/59623155/76183812-f872b380-6186-11ea-8d77-3a9f763a1500.jpg)
 ![Wireflow S1 P2](https://user-images.githubusercontent.com/59623155/76183910-3d96e580-6187-11ea-8606-9efdb84448a7.jpg)
 
-I tested my wireflow to check for any confusions or unexpected interactions from the user:
+## Low-fidelity prototype 
+The purpose of this low-fidelity prototype is to test the functionality and flow of these features integrated with the current process of booking a trip on a mobile travel app. I tested my wireflow to check for any confusions or unexpected interactions from the user:
 
 |Iteration #1|Iteration #2|
 |-------|-------|
 |![Wireflow S2 P1](https://user-images.githubusercontent.com/59623155/76183954-6323ef00-6187-11ea-87ed-f52c32b066ff.jpg)|![Wireflow S3 P1](https://user-images.githubusercontent.com/59623155/76184026-98304180-6187-11ea-9a72-d27bc541a92d.jpg)|
 ![Wireflow S2 P2](https://user-images.githubusercontent.com/59623155/76184008-89e22580-6187-11ea-8dec-af1ebf0514b7.jpg)|![Wireflow S3 P2](https://user-images.githubusercontent.com/59623155/76184079-c6ae1c80-6187-11ea-9301-36714a05b979.jpg)|
 
-## Low-fidelity prototype 
+[Read more...](https://priyanapatel57.github.io/DH150-UX/assignment08/)
 
+## High-fidelity Prototype 
+The prototype was created using Figma, a browser based UI and UX application for prototyping and code-generating. I have utilized Figma for past projects for creating wireframes for mobile applications and websites. I first started by digitizing my paper wireframes while implementing graphic and interactive components. I ensured that the color scheme fits with the intention of the project: to book cost-efficient trips to various travel destinations, book last-minute flights to see loved ones, and book bundle deals for work-related purposes with high-rated accomodations in good locations. The purpose of this interactive prototype is to visualize the information for the proposed tasks and features, validate the interaction flow for the user, and explore what influences a user’s choices. All in all, it is to evaluate rather than explore the system’s design.
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+<img width="572" alt="Prototype Interaction Flow" src="https://user-images.githubusercontent.com/59623155/75812067-6ad83380-5d42-11ea-9f5c-366cd7edfa4e.png">
+
+Test out the prototype for yourself:
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D1%253A9%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video
 
-## conclusion: what you learned throughout the process
+## Conclusion
+what you learned throughout the process
