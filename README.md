@@ -43,8 +43,22 @@ See each user's journey through the given scenario [here](https://priyanapatel57
 
 I decided to explore Expedia's user interface and logo colors, Dark Midnight Blue (#00355F) and Deep Lemon (#EEC218). I used color.adobe.com to explore complementary, analagous, and monochromatic variations of Midgnight Blue. I also explored color palettes related to keywords such as "travel","explore" and "adventure". 
 
-## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+See how I explored different web color schemes [here](https://priyanapatel57.github.io/DH150-UX/assignment07/)
+
+I created wireframes to support the following tasks: input search field, select an inbound flight, select an outbound flight, select a hotel, pay for and book the trip. The purpose of this low-fidelity prototype is to test the functionality and flow of these features integrated with the current process of booking a trip on a mobile travel app.
+
+![Wireflow S1 P1](https://user-images.githubusercontent.com/59623155/76183812-f872b380-6186-11ea-8d77-3a9f763a1500.jpg)
+![Wireflow S1 P2](https://user-images.githubusercontent.com/59623155/76183910-3d96e580-6187-11ea-8606-9efdb84448a7.jpg)
+
+I tested my wireflow to check for any confusions or unexpected interactions from the user:
+|Iteration #1|Iteration #2|
+|-----|-----|
+|![Wireflow S2 P1](https://user-images.githubusercontent.com/59623155/76183954-6323ef00-6187-11ea-87ed-f52c32b066ff.jpg)
+|![Wireflow S2 P2](https://user-images.githubusercontent.com/59623155/76184008-89e22580-6187-11ea-8dec-af1ebf0514b7.jpg)|
+|![Wireflow S3 P1](https://user-images.githubusercontent.com/59623155/76184026-98304180-6187-11ea-9a72-d27bc541a92d.jpg)|![Wireflow S3 P2](https://user-images.githubusercontent.com/59623155/76184079-c6ae1c80-6187-11ea-9301-36714a05b979.jpg)|
+
+## Low-fidelity prototype 
+
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
