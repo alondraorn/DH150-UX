@@ -1,4 +1,4 @@
-# Excursion
+# Excursion: Expedia Redesign 
 ## DH150 User Experience Design, Priyana Patel 
 
 ## About the Project 
@@ -6,16 +6,15 @@ The current project seeks to solve user difficulties associated with travel plan
 
 ## Design Statement: 
 How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? 
-arget users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
+Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
 ## Competitor Analysis:
 There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...](https://priyanapatel57.github.io/DH150-UX/assignment01/)
 
 Expedia | Southwest
 --------|--------
-<img align = "left" width ="350" alt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png)
+<img align = "left" width ="350" alt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png">
 > | <img align = "right" width="350" alt="Southwest" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png">
-
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
