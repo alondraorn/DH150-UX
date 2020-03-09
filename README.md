@@ -1,5 +1,6 @@
 # Excursion: Expedia Redesign 
-## DH150 User Experience Design, Priyana Patel 
+## DH150 User Experience Design
+## Priyana Patel 
 
 ## About the Project 
 The current project seeks to solve user difficulties associated with travel planning. The target community is a community of travelers that seek adventure, travel to new places, spend time with friends and family, and never feel settled in one place. These users are a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore. 
@@ -27,6 +28,13 @@ Based on my user research, I created three user personas and empathy maps.
 |-----|-----|-----|
 |![magdalena user persona](https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)|![armani user persona](https://user-images.githubusercontent.com/59623155/76180211-97dd7980-617a-11ea-8a5f-b1b7b0d1fc28.png)|![emma user persona](https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png)|
 ![Magdalena Empathy Map](https://user-images.githubusercontent.com/59623155/74216021-eec56100-4c57-11ea-9db3-b3c7857e6256.png)|![Armani Empathy Map](https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png)|![Emma Empathy Map](https://user-images.githubusercontent.com/59623155/76180869-7ed5c800-617c-11ea-8772-a9831a10322e.png)|
+
+I suggested **three features** to solve user difficulties associated with each persona and paired them with **three scenarios**
+
+||Magdalena|Armani|Emma|
+|-----|-----|-----|-----|
+|Feature|Price Tool - suggests what details of your trip to change (such as travel dates, location, airport) in order to fit a designated budget and price range|Minimized Booking Process - compares all airlines and websites and arranges flights by price visibility with personal recommendations, takes user directly to checkout after selecting flights|Recommendation Tool - Summarizes main points of customer reviews, shows highly recommended|
+|Scenario|Search for cost-efficient bundle deals|Search for last-minute flight deals and book efficiently|Search for high-rated hotels in a good location|
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
