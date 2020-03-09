@@ -13,7 +13,7 @@ There are many travel booking apps and available for users however the leading s
 
 |Expedia | Southwest|
 |--------|--------|
-|!(expedia homepage)[https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png]|!(southwest homepage)[https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png]|
+|![expedia homepage](https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png)|![southwest homepage](https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png)|
 
 ## User Research 
 The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends.The current solution to book travel plans is to meet in person with a travel agent or book directly with the airline and hotel, via their phone line or website.The limitations that can possibly be improved with digital technology are the visualization of options, individualized to the user's preferences, such as price points, travel times, and relative locations. Additionally, technology can help narrow search choices based on these preferences to help the user book a trip more efficiently.
