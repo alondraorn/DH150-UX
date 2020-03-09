@@ -22,21 +22,26 @@ The basic need involved for travel planning is self-actualization. The concept o
 I conducted a user interview for a target user, asking them to complete several tasks on their mobile device to search for travel-related information. The interview process directs the user to search for the average price of hotel in Los Angeles and a last minute flight to San Francisco. Read more about my user research and contextual inquiry [here](https://priyanapatel57.github.io/DH150-UX/assignment04/)
 
 ## UX Storytelling 
-Based on my user research, I created three user personas and empathy maps. 
+Based on my user research, I created three user personas, empathy maps, and user journey maps. 
 
 |Magdalena|Armani|Emma|
 |-----|-----|-----|
 |![magdalena user persona](https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)|![armani user persona](https://user-images.githubusercontent.com/59623155/76180211-97dd7980-617a-11ea-8a5f-b1b7b0d1fc28.png)|![emma user persona](https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png)|
 ![Magdalena Empathy Map](https://user-images.githubusercontent.com/59623155/74216021-eec56100-4c57-11ea-9db3-b3c7857e6256.png)|![Armani Empathy Map](https://user-images.githubusercontent.com/59623155/74216341-f1748600-4c58-11ea-894a-09b28438878f.png)|![Emma Empathy Map](https://user-images.githubusercontent.com/59623155/76180869-7ed5c800-617c-11ea-8772-a9831a10322e.png)|
+|![magdalena user journey](https://user-images.githubusercontent.com/59623155/76182719-29e98000-6183-11ea-986b-b17ed6884f71.png)|![armani user journey](https://user-images.githubusercontent.com/59623155/76182783-71700c00-6183-11ea-921a-dd86b3e4367a.png)|[emma user journey](https://user-images.githubusercontent.com/59623155/76182878-b5fba780-6183-11ea-82f8-a93fec4c7397.png)
 
 I suggested **three features** to solve user difficulties associated with each persona and paired them with **three scenarios**
 
 ||Magdalena|Armani|Emma|
 |-----|-----|-----|-----|
 |Feature|Price Tool - suggests what details of your trip to change (such as travel dates, location, airport) in order to fit a designated budget and price range|Minimized Booking Process - compares all airlines and websites and arranges flights by price visibility with personal recommendations, takes user directly to checkout after selecting flights|Recommendation Tool - Summarizes main points of customer reviews, shows highly recommended|
-|Scenario|Search for cost-efficient bundle deals|Search for last-minute flight deals and book efficiently|Search for high-rated hotels in a good location|
+|Scenario|Search for cost-efficient bundle deals|Search for last-minute flight deals and book efficiently|Search for high-rated hotels in good locations|
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+See each user's journey through the given scenario [here](https://priyanapatel57.github.io/DH150-UX/assignment05/)
+
+## Wireframe and Graphic Design Element Variation 
+
+I decided to explore Expedia's user interface and logo colors, Dark Midnight Blue (#00355F) and Deep Lemon (#EEC218). I used color.adobe.com to explore complementary, analagous, and monochromatic variations of Midgnight Blue. I also explored color palettes related to keywords such as "travel","explore" and "adventure". 
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
