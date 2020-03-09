@@ -23,8 +23,9 @@ I conducted a user interview for a target user, asking them to complete several 
 
 ## UX storytelling 
 Based on my user research, I created three user personas.
+
 |Magdalena|Armani|Emma|
-|---|---|---|
+|:---:|:---:|:---:|
 |![magdalena user persona] (https://user-images.githubusercontent.com/59623155/75808214-973c8180-5d3b-11ea-90f4-46c4d338cfd4.png)| ![armani user persona] (https://user-images.githubusercontent.com/59623155/76180211-97dd7980-617a-11ea-8a5f-b1b7b0d1fc28.png)| ![emma user persona] (https://user-images.githubusercontent.com/59623155/74213740-6d69d080-4c4f-11ea-8d09-52d211145a5d.png)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
