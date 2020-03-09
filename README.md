@@ -11,10 +11,9 @@ Target users value ease of use, previous customer satisfaction, and cost-efficie
 ## Competitor Analysis:
 There are many travel booking apps and available for users however the leading service in aesthetic community while providing ease of use are Expedia and Southwest. [read more...](https://priyanapatel57.github.io/DH150-UX/assignment01/)
 
-Expedia | Southwest
---------|--------
-<img align = "left" heightalt="Expedia" src="https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png">
-> | <img align = "right" alt="Southwest" src="https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png">
+|Expedia | Southwest|
+|--------|--------|
+|!(expedia homepage)[https://user-images.githubusercontent.com/59623155/75810085-bc7ebf00-5d3e-11ea-9b7b-8c70c0c889cc.png]|!(southwest homepage)[https://user-images.githubusercontent.com/59623155/75810137-d91af700-5d3e-11ea-9946-a95fb8aa41a0.png]|
 
 ## User Research 
 The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends.The current solution to book travel plans is to meet in person with a travel agent or book directly with the airline and hotel, via their phone line or website.The limitations that can possibly be improved with digital technology are the visualization of options, individualized to the user's preferences, such as price points, travel times, and relative locations. Additionally, technology can help narrow search choices based on these preferences to help the user book a trip more efficiently.
