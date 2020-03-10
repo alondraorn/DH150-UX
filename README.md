@@ -82,7 +82,6 @@ Test out the prototype for yourself:
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F48R2AtHbd0nNF1CZOgbO79%2FExcursion%3Fnode-id%3D1%253A9%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 ## Evaluation and Revisions
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Cognitive Walkthrough
 I conducted a cognitive walthrough with my course peers of the first version of my wireflew:
@@ -96,7 +95,6 @@ Additionally, I evaluted the accessibility of my color scheme. View the results 
 
 ## Pitch video
 My name is Priyana Patel and my project is a take on a commonly used travel booking app: Expedia. The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends. There is a clear distinction between travel booking websites and mobile applications. How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
-
 
 ## Conclusion
 what you learned throughout the process
