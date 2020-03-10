@@ -24,7 +24,6 @@ Overall, the participant found the Expedia app easy to use and was able to fully
 |-----|-----|
 |![usability testing form](https://user-images.githubusercontent.com/59623155/76184869-c7947d80-618a-11ea-9cb1-6b76a91af2e7.png)|![screen recording](https://user-images.githubusercontent.com/59623155/76187752-6d4bea80-6193-11ea-89f9-910eec249b30.png)|
 
-
 View the screen recording pilot test video [here](https://drive.google.com/file/d/14IbslDBkYaLPcxS0glFbTN0hMb-xrmA1/view?usp=sharing) 
 
 ## User Research 
@@ -88,13 +87,14 @@ I conducted a cognitive walthrough with my course peers of the first version of 
 
 The main feedback I received was on my *“progress bar”*; it was unclear what “step 1, step 2, etc.” referred to. I was advised by my peers to either *replace it with a visual progress bar* that fills up with the completion of each step or *replace the text with flight and hotel icons*. My peers additionally said it would be helpful to rename my *“price tool”* feature. It was unclear that clicking the button navigated to the corresponding page titled “Edit to Find More Options”. The user actions and the intended feature are not consistent with each other. One user actually thought that the frame where you can use a slider to change the travel budget was the intended flow and next page. My peers told me to *include the travel budget field on the same page as the search query*, providing a default option of the cheapest and most expensive options as the price range. Regarding the flight filter page, my peers said that it would be helpful to *clarify “morning, afternoon, evening”* because it is unclear what a midnight flight would fall under. All in all, the terms I used were vague and broad, therefore, I decided to add another section called *Early Morning*. Lastly, they said that it was *confusing and overwhelming to include both the departure and arrival flight search results on the same page*. While this is an issue I tried to overcome, I decided to organize page through two carousels as opposed to two vertical scrolling sections.
 
+Screen recording [here](https://drive.google.com/file/d/1cjQx0ACVSmYCVSgqm8ZqwF_bwtyVAB_j/view?usp=sharing)
+
 ### Accessibility Audit
 I conducted an accessibility audit of Expedia's site to evaluate how well it adhered to accessibility guidelines and principles. View the accessibility test results [here](https://github.com/priyanapatel57/DH150-UX/blob/master/assignment07/Audit_expedia_priyana.png)
 
 Additionally, I evaluted the accessibility of my color scheme. View the results [here](https://github.com/priyanapatel57/DH150-UX/blob/master/assignment07/Audit_color_priyana.png)
 
 ## Pitch video
-My name is Priyana Patel and my project is a take on a commonly used travel booking app: Expedia. The basic need involved for travel planning is self-actualization. The concept of traveling is to accomplish a goal; such as to explore a new place or visit family or friends. There is a clear distinction between travel booking websites and mobile applications. How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness? Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. 
 
 ## Conclusion
-what you learned throughout the process
+Throughout this process, I learned how to listen to the user rather than trying to convince them of something that I thought was the solution to the problem. I learned how to let the user guide my research and design decisions, emphasizing the main lesson of user experience design: the user is always right. This follows along with the fact that if a user is not able to navigate through your design, it is not something wrong with them, it means your design is not intuitive enough for them to understand the flow on their own. In the future, I hope to conduct more extensive user research and usability testing to truly explore all possible solutions to minimize user difficulties and create the most efficient, clear, and concise design. Overall, i have enjoyed the design process and I look forward to making my design better through further usability testing. 
