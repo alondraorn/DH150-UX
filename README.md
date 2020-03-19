@@ -94,8 +94,8 @@ I conducted an accessibility audit of Expedia's site to evaluate how well it adh
 
 Additionally, I evaluted the accessibility of my color scheme. View the results [here](https://github.com/priyanapatel57/DH150-UX/blob/master/assignment07/Audit_color_priyana.png)
 
-## Pitch video
-[!](http://img.youtube.com/vi/DFzLQ2FX0z8/0.jpg)](http://www.youtube.com/watch?v=DFzLQ2FX0z8 "")
+## Pitch Video
+[http://img.youtube.com/vi/DFzLQ2FX0z8/0.jpg)](http://www.youtube.com/watch?v=DFzLQ2FX0z8 "")
 
 ## Conclusion
 Throughout this process, I learned how to listen to the user rather than trying to convince them of something that I thought was the solution to the problem. I learned how to let the user guide my research and design decisions, emphasizing the main lesson of user experience design: the user is always right. This follows along with the fact that if a user is not able to navigate through your design, it is not something wrong with them, it means your design is not intuitive enough for them to understand the flow on their own. In the future, I hope to conduct more extensive user research and usability testing to truly explore all possible solutions to minimize user difficulties and create the most efficient, clear, and concise design. Overall, I have enjoyed the design process and I look forward to making my design better through further usability testing. 
